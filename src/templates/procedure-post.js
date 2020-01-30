@@ -3,12 +3,16 @@ import TemplateWrapper2 from '../components/Layout2'
 import ItemCard from '../components/ItemCard'
 import { graphql } from 'gatsby';
 import Procedures from '../pages/procedure'
+import showdown from 'showdown';
+
+const converter = new showdown.Converter()
 
 export const ProcedurePostTemplate = ({
   title, 
   cover, 
   procedures: items,
-  image
+  image,
+  prompt
 }) => {
   return (
     <>
@@ -28,23 +32,21 @@ export const ProcedurePostTemplate = ({
             </div>
         </div>
       </section>
-      <div className="container">
-        <div className="row mt-3">
-          <div className="col-md-2">
-            
+      {
+        prompt && (
+          <div className="container">
+            <div className="row mt-3 mt-md-5">
+              <div className="col-md-2 d-flex align-items-center">
+                <img src={prompt.image} alt={prompt.alt} className="img-fluid mx-auto" />
+              </div>
+              <div 
+                className="col-md-10 d-flex align-items-center color-1">
+                <div dangerouslySetInnerHTML={{ __html: converter.makeHtml(prompt.content) }} />
+              </div>
+            </div>
           </div>
-          <div 
-            className="col-md-10 color-1">
-            <p>
-              La microcirugía es una rama de la cirugía plástica que permite al cirujano tener una herramienta de reconstruir cualquier parte del cuerpo, como el resultado de un trauma, accidente, cirugía mal realizada, enfermedad o alteración genética.
-            </p>
-            <p>
-              Realizamos todas las reconstrucciones en cabeza, cuello, y demás miembros superiores e inferiores,  y reconstrucción de mamas.
-            </p>
-          </div>
-        </div>
-      </div>
-      
+        )
+      }
       <div className="d-block d-md-none container-fluid px-0 py-5">
         {
             items.map((item, index) => (
@@ -81,8 +83,15 @@ const ProcedurePost = ({
     location,
     data
 }) => {
-    const { title, cover, procedures: items } = data.markdownRemark.frontmatter;
+    const { title, cover, procedures: items, prompt } = data.markdownRemark.frontmatter;
     const image = cover.image.childImageSharp.fluid.src;
+
+    let _prompt = prompt;
+    if(prompt)
+      _prompt = {
+        ...prompt,
+        image: prompt.image.childImageSharp ? prompt.image.childImageSharp.fluid.src : prompt.image.publicURL
+      }
 
     return (
         <TemplateWrapper2 location={location}>
@@ -90,7 +99,8 @@ const ProcedurePost = ({
               title={title}
               cover={cover}
               procedures={items}
-              image={image} />
+              image={image}
+              prompt={_prompt} />
           <Procedures exludeSlug={data.markdownRemark.fields.slug} />
         </TemplateWrapper2>
     )
@@ -115,6 +125,18 @@ export const procedureQuery = graphql`
                   }
                 }
               }
+        }
+        prompt {
+          image {
+            childImageSharp {
+              fluid {
+                ...GatsbyImageSharpFluid
+              }
+            }
+            publicURL
+          }
+          alt
+          content
         }
         procedures {
             alt

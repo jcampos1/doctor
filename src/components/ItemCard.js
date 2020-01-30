@@ -12,10 +12,10 @@ const Title = ({
             </h5>
             <div className="w-75 mx-auto">
                 <div 
-                    style={{backgroundColor: "#17a4d6", height: "4px", width: "40%"}}
+                    style={{backgroundColor: "#847782", height: "4px", width: "40%"}}
                     className="d-inline-block" />
                 <div 
-                    style={{backgroundColor: "#71ffd2", height: "4px", width: "60%"}}
+                    style={{backgroundColor: "#957bcc", height: "4px", width: "60%"}}
                     className="d-inline-block" />
             </div>
         </div>

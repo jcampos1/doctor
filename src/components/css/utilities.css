@@ -25,6 +25,18 @@
     color: #957bcc !important;
 }
 
+.color-2 {
+    color: #515151 !important;
+}
+
 .bg-1 {
+    background-color: #957bcc !important;
+}
+
+.bg-2 {
+    background-color: #515151 !important;
+}
+
+.bg-primary-hover:hover {
     background-color: #957bcc !important;
 }

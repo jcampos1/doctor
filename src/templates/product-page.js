@@ -30,7 +30,7 @@ const Product = ({
     data
 }) => {
     const items = data.allMarkdownRemark.edges;
-
+    console.log('items :', items);
   return (
     <TemplateWrapper2 location={location}>
         <div id="product">
@@ -46,7 +46,7 @@ const Product = ({
                                 to={`${item.node.frontmatter.name}`}>
                                 <div className="mx-auto d-flex flex-column align-items-center justify-content-start mb-3 mr-sm-3 mr-md-4">
                                     <div
-                                        className="align-items-start d-block bg-info framew d-flex align-items-center justify-content-center rounded-circle">
+                                        className="align-items-start d-block bg-2 bg-primary-hover framew d-flex align-items-center justify-content-center rounded-circle">
                                             <img 
                                                 src={getImage(item.node.frontmatter.cover, "imageProd")}
                                                 alt={item.node.frontmatter.cover.alt}
@@ -55,7 +55,7 @@ const Product = ({
                                     </div>
                                     <span
                                         style={{width: "6rem"}} 
-                                        className="text-info text-center d-block">
+                                        className="color-2 text-center d-block">
                                         {item.node.frontmatter.name}
                                     </span>
                                 </div>
@@ -72,7 +72,7 @@ const Product = ({
                         <div className="container py-5">
                             <div className="d-flex align-items-center mb-3 mr-sm-3">
                                 <div
-                                    className="mr-3 align-items-start d-block bg-info framew-big d-flex align-items-center justify-content-center rounded-circle">
+                                    className="mr-3 align-items-start d-block bg-2 framew-big d-flex align-items-center justify-content-center rounded-circle">
                                         <img 
                                             src={getImage(item.node.frontmatter.cover, "imageProd")}
                                             alt={item.node.frontmatter.cover.altProd}
@@ -80,7 +80,7 @@ const Product = ({
                                             />
                                 </div>
                                 <h3
-                                    className="text-info text-center d-block">
+                                    className="color-2 text-center d-block">
                                     {item.node.frontmatter.name}
                                 </h3>
                             </div>
@@ -92,7 +92,7 @@ const Product = ({
                                                     key={`prod${index}${index2}`}
                                                     image={getImage(sub)}
                                                     alt={sub.alt}
-                                                    title={sub.title}
+                                                    title={sub.name}
                                                     price={sub.price} />
                                             </div>
                                         ))

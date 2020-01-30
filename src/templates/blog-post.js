@@ -31,8 +31,8 @@ export const BlogPost2Template = ({
                     className="mx-auto ml-md-0 mr-md-5 mb-4 mb-md-0 border-image border-image-frame rounded-circle d-flex justify-content-center align-items-center p-3" 
                     >
                     <img 
-                        src="/img/author-image.png" 
-                        alt="author image" />
+                        src={author.photo.childImageSharp ? author.photo.childImageSharp.fluid.src : author.photo} 
+                        alt={author.alt} />
                 </div>
                 <div className="d-flex flex-column">
                     <h2 className="mb-4 mx-auto mx-md-0 text-muted font-weight-bold">{title}</h2>
@@ -106,7 +106,7 @@ const BlogPost2 = ({
                                                 className="icon-meta"
                                                 src={p.node.frontmatter.author.photo.childImageSharp.fluid.src}
                                                 alt={p.node.frontmatter.author.alt} />
-                                                {p.author}
+                                                {p.node.frontmatter.author.name}
                                         </div>
                                         <div className="d-flex align-items-center text-muted mt-4">
                                             <img 
