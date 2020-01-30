@@ -28,6 +28,23 @@ export const ProcedurePostTemplate = ({
             </div>
         </div>
       </section>
+      <div className="container">
+        <div className="row mt-3">
+          <div className="col-md-2">
+            
+          </div>
+          <div 
+            className="col-md-10 color-1">
+            <p>
+              La microcirugía es una rama de la cirugía plástica que permite al cirujano tener una herramienta de reconstruir cualquier parte del cuerpo, como el resultado de un trauma, accidente, cirugía mal realizada, enfermedad o alteración genética.
+            </p>
+            <p>
+              Realizamos todas las reconstrucciones en cabeza, cuello, y demás miembros superiores e inferiores,  y reconstrucción de mamas.
+            </p>
+          </div>
+        </div>
+      </div>
+      
       <div className="d-block d-md-none container-fluid px-0 py-5">
         {
             items.map((item, index) => (

@@ -43,6 +43,7 @@ collections:
       - {label: "Título", name: title, widget: string}
       - {label: "Imagen thumbnail", name: "thumbnail", widget: "object", fields: [{label: "Imagen", name: image, widget: image}, {label: "Texto alternativo", name: alt, widget: string}]}
       - {label: "Imagen de portada", name: "cover", widget: "object", fields: [{label: "Imagen", name: image, widget: image}, {label: "Texto alternativo", name: alt, widget: string}]}
+      - {label: "Aviso", name: "prompt", required: false, widget: object, fields: [{label: "Imagen", name: image, widget: image}, {label: "Texto alternativo", name: alt, widget: string},{label: "Texto", name: content, widget: markdown}]}
       - {label: "Procedimientos", name: "procedures", widget: list, fields: [{label: "Nombre", name: name, widget: string}, {label: "Imagen", name: image, widget: image}, {label: "Texto alternativo", name: alt, widget: string}, {label: "Descripción", name: "description", widget: "text"}]}
 
   - name: "product"
