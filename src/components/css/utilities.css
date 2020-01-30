@@ -18,3 +18,13 @@
 #procedures .item-image:hover {
     filter: blur(5px);
 }
+
+/* COLORS */
+
+.color-1 {
+    color: #957bcc !important;
+}
+
+.bg-1 {
+    background-color: #957bcc !important;
+}

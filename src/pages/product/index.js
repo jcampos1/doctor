@@ -5,6 +5,7 @@ import { Link } from 'gatsby';
 import Feature2 from '../../components/Feature2';
 import { graphql, StaticQuery } from 'gatsby';
 import { getImage } from '../../utils';
+import ButtonMore from '../../components/ButtonMore';
 
 const Item = ({
     name,
@@ -14,8 +15,8 @@ const Item = ({
 }) => {
     return (
         <div
-            style={{borderRadius: "14px"}} 
-            className="d-flex justify-content-between align-items-center bg-info px-4 py-3">
+            style={{borderRadius: "14px", backgroundColor: "#cac9c9"}} 
+            className="d-flex justify-content-between align-items-center px-4 py-3">
             <div className="d-flex align-items-center">
                 <div
                     className="framew d-flex align-items-center justify-content-center bg-white rounded-circle mr-sm-3">
@@ -26,13 +27,15 @@ const Item = ({
                             />
                 </div>
                 <span
-                    className="framew__desc font-weight-bold text-white">
+                    className="framew__desc font-weight-bold">
                     {name}
                 </span>
             </div>
-            <Link 
+            <ButtonMore to={url} />
+
+            {/* <Link 
                 to={url}
-                style={{backgroundColor: "#71ffd2"}}
+                style={{backgroundColor: "#957bcc"}}
                 className="btn px-4 text-muted d-none d-md-block">
                 Ver mas
                 <span
@@ -40,14 +43,14 @@ const Item = ({
                     className="d-inline-flex align-items-center justify-content-center rounded-circle ml-2">+</span>
             </Link>
             <Link 
-                style={{backgroundColor: "#71ffd2"}}
+                style={{backgroundColor: "#957bcc"}}
                 to={url} 
                 className="btn btn-sm px-4 text-muted d-block d-md-none">
                 Ver mas
                 <span
                     style={{width: "18px", height: "18px", border: "solid 1px #707070"}} 
                     className="d-inline-flex align-items-center justify-content-center rounded-circle ml-2">+</span>
-            </Link>
+            </Link> */}
         </div>
     )
 }
@@ -148,48 +151,7 @@ const Products = ({
 }
 
 Products.defaultProps = {
-    title: "PRODUCTOS",
-    // items: [{
-    //     image: "/img/icon-fajas.svg",
-    //     alt: "testimonial 1",
-    //     name: "Fajas",
-    //     url: "/",
-    // },{
-    //     image: "/img/icon-brasier-band.svg",
-    //     alt: "testimonial 1",
-    //     name: "Bandas de brasier",
-    //     url: "/",
-    // },{
-    //     image: "/img/icon-table-abd.svg",
-    //     alt: "testimonial 1",
-    //     name: "Tablas abdominales",
-    //     url: "/",
-    // },{
-    //     image: "/img/icon-medias.svg",
-    //     alt: "testimonial 1",
-    //     name: "Medias anti embólicas o de compresión",
-    //     url: "/",
-    // },{
-    //     image: "/img/icon-espumas.svg",
-    //     alt: "testimonial 1",
-    //     name: "Espumas",
-    //     url: "/",
-    // },{
-    //     image: "/img/icon-mentonera.svg",
-    //     alt: "testimonial 1",
-    //     name: "Mentoneras",
-    //     url: "/",
-    // },{
-    //     image: "/img/icon-brasier.svg",
-    //     alt: "testimonial 1",
-    //     name: "Brasier quirurigico",
-    //     url: "/",
-    // }, {
-    //     image: "/img/icon-post-operatory.svg",
-    //     alt: "Medicamentos post operatorio",
-    //     name: "Medicamentos post operatorio",
-    //     url: "/",
-    // }]
+    title: "PRODUCTOS"
 }
 
 export default props => (

@@ -9,8 +9,8 @@
 
 /* HEADER */
 #header .navbar-nav a.active {
-    color: #17a4d6 !important;
-    border-bottom: 1px solid #17a4d6;
+    color: #957bcc !important;
+    border-bottom: 1px solid #957bcc;
 }
 
 
@@ -45,8 +45,8 @@
 /* SOCIAL NETWORKS */
 
 #social-networks img {
-    width: 4rem;
-    height: 4rem;
+    width: 3.5rem;
+    height: 3.5rem;
 }
 
 
@@ -148,7 +148,7 @@
 #form .form-hubspot {
     width: 320px;
     box-shadow: 0 1.5px 3px 0 rgba(0, 0, 0, 0.16);
-    background-color: #014158;
+    background-color: #5a5a5a;
     border-radius: 15px;
     color: white;
 }

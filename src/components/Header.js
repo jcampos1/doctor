@@ -79,7 +79,7 @@ const Header = ({
                     <button 
                         style={{top: "5px"}}
                         type="button" 
-                        className="btn btn-sm btn-info position-relative text-capitalize px-4 font-weight-bold d-flex mx-auto ml-lg-4 mr-lg-0">
+                        className="btn btn-sm bg-1 position-relative text-capitalize px-4 font-weight-bold d-flex mx-auto ml-lg-4 mr-lg-0">
                             <LinkScroll 
                                 smooth={true}
                                 duration={500}

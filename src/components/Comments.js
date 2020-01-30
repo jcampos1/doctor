@@ -30,10 +30,10 @@ const Comments = ({
                                             <div
                                                 style={{
                                                     width: "200px", height: "200px",
-                                                    border: "3px solid transparent",
-                                                    backgroundClip: "padding-box, border-box",
-                                                    backgroundOrigin: "padding-box, border-box",
-                                                    backgroundImage: "linear-gradient(90deg, #fff, #fff), linear-gradient(115deg, #71ffd2, #075ecf)"
+                                                    border: "3px solid #a1a1a1",
+                                                    // backgroundClip: "padding-box, border-box",
+                                                    // backgroundOrigin: "padding-box, border-box",
+                                                    // backgroundImage: "linear-gradient(90deg, #fff, #fff), linear-gradient(115deg, #71ffd2, #075ecf)"
                                                 }}
                                                 className="card-img-top mx-auto rounded-circle d-flex justify-content-center align-items-center p-3" 
                                                 >
@@ -81,10 +81,10 @@ const Comments = ({
                                         <div
                                             style={{
                                                 width: "200px", height: "200px",
-                                                border: "3px solid transparent",
-                                                backgroundClip: "padding-box, border-box",
-                                                backgroundOrigin: "padding-box, border-box",
-                                                backgroundImage: "linear-gradient(90deg, #fff, #fff), linear-gradient(115deg, #71ffd2, #075ecf)"
+                                                border: "3px solid #a1a1a1",
+                                                // backgroundClip: "padding-box, border-box",
+                                                // backgroundOrigin: "padding-box, border-box",
+                                                // backgroundImage: "linear-gradient(90deg, #fff, #fff), linear-gradient(115deg, #71ffd2, #075ecf)"
                                             }}
                                             className="card-img-top mx-auto rounded-circle d-flex justify-content-center align-items-center p-3 mt-4" 
                                             >

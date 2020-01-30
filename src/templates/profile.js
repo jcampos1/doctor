@@ -34,6 +34,7 @@ export const ProfileTemplate = ({
             <Feature2 
                 title={drName}
                 className=""
+                primaryColor="white"
                 style={{color: "white"}} />
             <div
                 className="profile__content-text mt-0 mt-sm-2 mt-md-5">

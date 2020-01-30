@@ -15,8 +15,8 @@ const TemplateWrapper2 = ({ children, location }) => {
   const { title, description } = useSiteMetadata()
 
   useEffect(() => {
-    // const popper = typeof window !== `undefined` ? require("../../node_modules/popper.js/dist/popper.min.js") : null
-    // const bootstrap = typeof window !== `undefined` ? require("../../node_modules/bootstrap/dist/js/bootstrap.min.js") : null
+    const popper = typeof window !== `undefined` ? require("../../node_modules/popper.js/dist/popper.min.js") : null
+    const bootstrap = typeof window !== `undefined` ? require("../../node_modules/bootstrap/dist/js/bootstrap.min.js") : null
   }, []);
 
   return (

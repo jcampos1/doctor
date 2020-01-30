@@ -28,21 +28,33 @@ export const ProcedurePostTemplate = ({
             </div>
         </div>
       </section>
-      <div className="container py-5">
-          <div className="row">
-              {
-                  items.map((item, index) => (
-                      <div className="col-md-6 col-lg-4 mb-4">
-                          <ItemCard 
-                              image={item.image.childImageSharp ? item.image.childImageSharp.fluid.src : item.image}
-                              alt={item.alt}
-                              title={item.name}
-                              resume={item.description}
-                              />
-                      </div>
-                  ))
-              }
-          </div>
+      <div className="d-block d-md-none container-fluid px-0 py-5">
+        {
+            items.map((item, index) => (
+                <div className="mb-4">
+                    <ItemCard 
+                        image={item.image.childImageSharp ? item.image.childImageSharp.fluid.src : item.image}
+                        alt={item.alt}
+                        title={item.name}
+                        resume={item.description}
+                        />
+                </div>
+            ))
+        }
+      </div>
+      <div className="d-none d-md-block container py-5">
+        {
+            items.map((item, index) => (
+                <div className="mb-4">
+                    <ItemCard 
+                        image={item.image.childImageSharp ? item.image.childImageSharp.fluid.src : item.image}
+                        alt={item.alt}
+                        title={item.name}
+                        resume={item.description}
+                        />
+                </div>
+            ))
+        }
       </div>
     </>
   )

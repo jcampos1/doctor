@@ -48,8 +48,7 @@ const BlogSection = ({
                                                     <div style={{
                                                         top: "0",
                                                         left: "0",
-                                                        opacity: ".8",
-                                                        backgroundColor: "#17a4d6"
+                                                        backgroundColor: "#aeaeae"
                                                     }} 
                                                     className="w-100 h-100 position-absolute" />
                                                     <span

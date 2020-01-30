@@ -65,7 +65,7 @@ const Procedures = ({
                                                 ((!selected && index < 3) || (selected && selected.frontmatter.title !== item.node.frontmatter.title)) && (
                                                     <div
                                                         style={{
-                                                            backgroundColor: "#17a4d6", opacity: ".5",
+                                                            backgroundColor: "#515151", opacity: ".5",
                                                             width: "96%",
                                                             height: "97%",
                                                             left: "2%",
@@ -91,7 +91,7 @@ const Procedures = ({
                                 <PerfectScrollbar>
                                     <ul 
                                         className="pl-0"
-                                        style={{listStylePosition: "inside", color: "#17a4d6", fontSize: "25px", lineHeight: "25px"}}>
+                                        style={{listStylePosition: "inside", color: "#515151", fontSize: "25px", lineHeight: "25px"}}>
                                         {
                                             selected.frontmatter.procedures.map((item, index) => (
                                                     <li 

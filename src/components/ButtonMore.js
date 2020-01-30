@@ -26,7 +26,7 @@ const ButtonMore = ({
 }
 
 ButtonMore.defaultProps = {
-    style: {backgroundColor: "#17a4d6"},
+    style: {backgroundColor: "#957bcc", border: "1px solid #957bcc"},
     label: "Ver mas",
     className: "btn btn-info px-4"
 }

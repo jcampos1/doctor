@@ -7,7 +7,7 @@ const Footer2 = () => {
             {/* Form section */}
             <FormSection />
             <footer
-                style={{backgroundColor: "#014158"}} 
+                style={{backgroundColor: "#5a5a5a"}} 
                 className="d-flex justify-content-between align-items-center px-3 px-md-5 py-1 w-100">
                 <div 
                     style={{color: "white"}}

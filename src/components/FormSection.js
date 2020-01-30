@@ -50,6 +50,7 @@ const FormSection = ({
     const handleSubmit = data => {
         console.log('data :', data);
     }
+
     return (
         <>
             {/* Displayed in desk */}
@@ -81,7 +82,10 @@ const FormSection = ({
                 <div
                     className="container position-relative">
                     <div className="d-flex justify-content-center font-weight-bold">
-                        <Feature2 title={title} />
+                        <Feature2 
+                            className="" 
+                            primaryColor="white"
+                            title={title} />
                     </div>
                     <div
                         style={{zIndex: "100"}} 
@@ -234,9 +238,9 @@ const FormSection = ({
                                             <button
                                                 onClick={() => handleSubmit(values)} 
                                                 disabled={!isValid || !values.terms}
-                                                style={{backgroundColor: "#71ffd2"}}
+                                                style={{backgroundColor: "#957bcc"}}
                                                 type="submit" 
-                                                className="btn px-4 mt-2">
+                                                className="btn px-4 mt-2 d-flex mx-auto text-white font-weight-bold">
                                                 Solicitar información
                                             </button>
                                         </Form>

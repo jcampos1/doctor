@@ -32,15 +32,6 @@ const SocialNetworks = ({
         url: networks[n.name]
     }))
 
-    // const _networks = networks.map(n => {
-    //     const image = networksImages.find(_n => _n.name === n.name);
-    //     return {
-    //         ...n,
-    //         image: isSimple ? image.image : image.imageWhite,
-    //         alt: image.alt
-    //     }
-    // });
-
     return (
         <div 
             id="social-networks"

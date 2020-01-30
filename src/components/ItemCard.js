@@ -29,21 +29,44 @@ const ItemCard = ({
     resume
 }) => {
     return (
-        <div 
-            style={{borderRadius: "15px"}}
-            className="bg-light py-4 px-3 h-100">
-            <img 
-                src={image}
-                alt={alt}
-                className="img-fluid w-75 d-flex mx-auto mb-4" />
-            <Title 
-                title={title} />
-            <p 
-                style={{fontSize: "14px"}}
-                className="text-muted mt-4">
-                {resume}
-            </p>
-        </div>
+        <>
+            {/* DESKTOP */}
+            <div 
+                style={{borderRadius: "15px"}}
+                className="d-none d-md-block bg-light py-4 px-3 h-100">
+                <div className="row">
+                    <div className="col-md-3">
+                        <img 
+                            src={image}
+                            alt={alt}
+                            className="img-fluid w-75 d-flex mx-auto mb-4" />
+                    </div>
+                    <div className="col-md-9">
+                        <Title 
+                            title={title} />
+                        <p 
+                            style={{fontSize: "14px"}}
+                            className="text-muted mt-4">
+                            {resume}
+                        </p>
+                    </div>
+                </div>
+            </div>
+            {/* MOBILE */}
+            <div className="d-block d-md-none bg-light py-4 px-3 h-100">
+                <img 
+                    src={image}
+                    alt={alt}
+                    className="img-fluid w-75 d-flex mx-auto mb-4" />
+                <Title 
+                    title={title} />
+                <p 
+                    style={{fontSize: "14px"}}
+                    className="text-muted mt-4">
+                    {resume}
+                </p>
+            </div>
+        </>
     )
 }
 
