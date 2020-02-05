@@ -59,7 +59,7 @@ collections:
       - {label: "Productos", name: "prod", widget: list, fields: [{label: "Nombre", name: name, widget: string}, {label: "Imagen", name: image, widget: image}, {label: "Texto alternativo", name: alt, widget: string}, {label: "Precio", name: "price", widget: string}]}
 
   - name: "pages"
-    label: "Pages"
+    label: "Páginas"
     files:
       - file: "src/pages/index.md"
         label: "Página principal"
