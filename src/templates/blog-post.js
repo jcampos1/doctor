@@ -27,7 +27,7 @@ export const BlogPost2Template = ({
     });
 
     return (
-        <>
+        <div id={isPreview ? "blog-post" : ""}>
             <section
                 className="jumbotron jumbotron-fluid p-0 m-0 position-relative">
                 <img 
@@ -70,7 +70,7 @@ export const BlogPost2Template = ({
                     </div>
                 </div>
             </section>
-        </>
+        </div>
     )
 }
 
