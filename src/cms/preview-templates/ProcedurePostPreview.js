@@ -6,7 +6,7 @@ const ProcedurePostPreview = ({ entry, widgetFor }) => {
     const data = entry.getIn(['data']).toJS();
     const { title, cover, procedures: items } = data;
     const image = cover.image;
-
+  
     return (
         <ProcedurePostTemplate 
             title={title}
