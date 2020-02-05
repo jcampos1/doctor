@@ -52,7 +52,7 @@ export const ProcedurePostTemplate = ({
             items.map((item, index) => (
                 <div className="mb-4">
                     <ItemCard 
-                        image={item.image ? item.image.childImageSharp.fluid.src : item.image}
+                        image={item.image.childImageSharp ? item.image.childImageSharp.fluid.src : item.image}
                         alt={item.alt}
                         title={item.name}
                         resume={item.description}
@@ -66,7 +66,7 @@ export const ProcedurePostTemplate = ({
             items.map((item, index) => (
                 <div className="mb-4">
                     <ItemCard 
-                        image={item.image ? item.image.childImageSharp.fluid.src : item.image}
+                        image={item.image.childImageSharp ? item.image.childImageSharp.fluid.src : item.image}
                         alt={item.alt}
                         title={item.name}
                         resume={item.description}

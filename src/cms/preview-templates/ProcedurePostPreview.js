@@ -4,7 +4,7 @@ import { ProcedurePostTemplate } from '../../templates/procedure-post';
 
 const ProcedurePostPreview = ({ entry, widgetFor }) => {
     const data = entry.getIn(['data']).toJS();
-    const { title, cover, procedures: items } = data;
+    const { title, cover, procedures: items, prompt } = data;
     const image = cover.image;
   
     console.log('data ProcedurePostPreview :', data);
@@ -14,7 +14,8 @@ const ProcedurePostPreview = ({ entry, widgetFor }) => {
             title={title}
             cover={cover}
             procedures={items}
-            image={image}/>
+            image={image}
+            prompt={prompt} />
     )
 }
 
