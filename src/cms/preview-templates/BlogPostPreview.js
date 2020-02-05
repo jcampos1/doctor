@@ -7,19 +7,19 @@ const BlogPostPreview = ({ entry, widgetFor }) => {
     console.log('data :', data);
     const {altCover, date, title, author} = data;
     const image = data.coverImage;
-    const body = data.html;
+    const body = data.body;
 
     return (
       <>
-      BlogPostPreview
-        {/* <BlogPost2Template 
+        <BlogPost2Template 
             altCover={altCover} 
             date={date} 
             title={title} 
             author={author} 
             image={image} 
             body={body}
-        /> */}
+            isPreview={true}
+        />
       </>
     )
 }
