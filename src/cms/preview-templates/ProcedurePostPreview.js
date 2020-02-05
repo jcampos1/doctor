@@ -7,7 +7,7 @@ const ProcedurePostPreview = ({ entry, widgetFor }) => {
     const { title, cover, procedures: items, prompt } = data;
     const image = cover.image;
   
-    console.log('data ProcedurePostPreview :', data);
+    console.log('data ProcedurePostPreview* :', data);
   
     return (
         <ProcedurePostTemplate 
