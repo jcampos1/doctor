@@ -4,7 +4,6 @@ import { BlogPost2Template } from '../../templates/blog-post'
 
 const BlogPostPreview = ({ entry, widgetFor }) => {
     const data = entry.getIn(['data']).toJS()
-    console.log('data :', data);
     const {altCover, date, title, author} = data;
     const image = data.coverImage;
     const body = data.body;

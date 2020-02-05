@@ -74,7 +74,6 @@ const Product = ({
     data
 }) => {
     const items = data.allMarkdownRemark.edges;
-    console.log('items :', items);
     return (
         <TemplateWrapper2 location={location}>
             <div id="product">

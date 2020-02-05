@@ -17,15 +17,6 @@ export const BlogPost2Template = ({
     body,
     isPreview = false
 }) => { 
-    console.log('BlogPost2Template :', {
-        altCover, 
-        date, 
-        title, 
-        author,
-        image,
-        body
-    });
-
     return (
         <div id={isPreview ? "blog-post" : ""}>
             <section

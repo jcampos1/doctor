@@ -5,7 +5,6 @@ import { ProductTemplate } from '../../templates/product-page';
 
 const ProductPostPreview = ({ entry, widgetFor }) => {
     const data = entry.getIn(['data']).toJS();
-    console.log('data ProductPostPreview:', data);
 
     return (
         <ProductTemplate item={data} />
