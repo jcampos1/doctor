@@ -10,14 +10,17 @@ const BlogPostPreview = ({ entry, widgetFor }) => {
     const body = data.html;
 
     return (
-        <BlogPost2Template 
+      <>
+      BlogPostPreview
+        {/* <BlogPost2Template 
             altCover={altCover} 
             date={date} 
             title={title} 
             author={author} 
             image={image} 
             body={body}
-        />
+        /> */}
+      </>
     )
 }
 

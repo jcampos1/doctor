@@ -16,6 +16,15 @@ export const BlogPost2Template = ({
     image,
     body
 }) => {
+    console.log('BlogPost2Template :', {
+        altCover, 
+        date, 
+        title, 
+        author,
+        image,
+        body
+    });
+    
     return (
         <>
             <section
