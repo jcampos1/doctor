@@ -22,22 +22,28 @@ resumeProfile:
     youtube: 'https://youtube.com'
 testimonials:
   - alt: cxvcxvxv
-    image: /img/test1.png
+    image: /img/cristina.jpeg
     resume: >-
-      Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo
-      ligula eget dolor. Aenean massa. Cum sociis natoque
-    title: Lorem impsum
+      Tuve la fortuna de atenderme con la Dra. Carolina con la que me realicé
+      una exfoliación facial con carbón que me dejó la piel más firme y
+      rejuvenecida y el otro fue la mesoterapia facial y corporal que mejoró mi
+      cabello y piel con un coctel de vitaminas extraordinarias. Dos
+      tratamientos no quirúrgicos que recomiendo totalmente.
+    title: Cristina Hidalgo (Modelo- Miss Ecuador 2019)
   - alt: asdasdad
-    image: /img/test2.png
+    image: /img/maros.jpeg
     resume: >-
-      Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo
-      ligula eget dolor. Aenean massa. Cum sociis natoque
-    title: Lorem impsum
+      La Dra. Es como una amiga porque quiere lo mejor para el paciente, y no
+      solo lo que está de moda, sino vela primero en pro de la salud, y cuando
+      van por esa línea primero, me compran de una.
+    title: Raúl Ocampo (Actor)
   - alt: dsfdsfdsf
     image: /img/test3.png
     resume: >-
-      Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo
-      ligula eget dolor. Aenean massa. Cum sociis natoque
-    title: Lorem impsum
+      Yo me hice una reconstrucción mamaria, y es algo que todas las mujeres que
+      lo necesiten se deben hacer, porque nos hace sentir mejor como mujeres.
+      Estoy agradecida porque me fue muy bien y las manos de la doctora son muy
+      bendecidas.
+    title: Marta Inés Rangel
 ---
 
