@@ -85,9 +85,16 @@ const Procedures = ({
                             <div
                                 style={{backgroundColor: "#f4f5fa"}} 
                                 className="w-50 d-flex flex-column justify-content-center ml-2 px-5 py-3 h-100">
-                                <h4 className="text-muted font-weight-bold">
+                                <h4 className="text-muted font-weight-bold mb-0">
                                     {selected.frontmatter.title}
                                 </h4>
+                                {
+                                    selected.frontmatter.subtitle && (
+                                        <div className="color-1 mb-3">
+                                            {selected.frontmatter.subtitle}
+                                        </div>
+                                    )
+                                }
                                 <PerfectScrollbar>
                                     <ul 
                                         className="pl-0"
@@ -186,6 +193,7 @@ export default props => (
                         }
                         frontmatter {
                             title
+                            subtitle
                             thumbnail{
                                 alt
                                 image {
