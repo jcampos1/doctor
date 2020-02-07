@@ -91,7 +91,9 @@ export const pageQuery = graphql`
               fluid {
                 ...GatsbyImageSharpFluid
               }
-            } 
+            }
+            extension
+            publicURL 
           }
           alt
           resume

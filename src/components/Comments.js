@@ -2,6 +2,7 @@ import React from 'react'
 import Feature2 from './Feature2';
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 import { Carousel } from 'react-responsive-carousel';
+import { getImage } from '../utils';
 
 const Comments = ({
     title,
@@ -21,7 +22,7 @@ const Comments = ({
                         {
                             testimonials.map((item, index) => {
                                 const {alt, resume, title} = item;
-                                const image = item.image.childImageSharp ? item.image.childImageSharp.fluid.src : item.image;
+                                const image = getImage(item);
                                 return (
                                     <div
                                         key={`test${index}`} 
