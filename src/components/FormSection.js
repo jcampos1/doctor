@@ -18,8 +18,11 @@ const schema = Yup.object().shape({
   });
 
 const procedures = [{
-    value: "Bichetmomia",
-    label: "Bichetmomia"
+    value: "Mamoplastia",
+    label: "Mamoplastia"
+}, {
+    value: "Rinoplastia",
+    label: "Rinoplastia"
 }, {
     value: "Bichetmomia",
     label: "Bichetmomia"
