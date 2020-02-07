@@ -1,6 +1,6 @@
 ---
 templateKey: procedure-post
-title: CIRUGÍAS CORPORALES
+title: Cirugías corporales
 thumbnail:
   alt: fdfdf
   image: /img/proc2.png
@@ -53,5 +53,65 @@ procedures:
       naturales y hermosos.
     image: /img/placeholder-image.png
     name: Marcación abdominal
+  - alt: dfdsfsfds
+    description: >-
+      Lorem ipsum
+    image: /img/placeholder-image.png
+    name: Gluteoplastia o aumento de gluteos
+  - alt: dfdsfsfds
+    description: >-
+      Lorem ipsum
+    image: /img/placeholder-image.png
+    name: Braquioplastia (cirugía de brazos)
+  - alt: dfdsfsfds
+    description: >-
+      Lorem ipsum
+    image: /img/placeholder-image.png
+    name: Cruroplastia (cirugía de muslos)
+  - alt: dfdsfsfds
+    description: >-
+      Lorem ipsum
+    image: /img/placeholder-image.png
+    name: Aumento de caderas con grasa
+  - alt: dfdsfsfds
+    description: >-
+      Lorem ipsum
+    image: /img/placeholder-image.png
+    name: Rejuvenecimiento vaginal
+  - alt: dfdsfsfds
+    description: >-
+      Lorem ipsum
+    image: /img/placeholder-image.png
+    name: Alargamiento y engrosamiento del pene
+  - alt: dfdsfsfds
+    description: >-
+      Lorem ipsum
+    image: /img/placeholder-image.png
+    name: Cambio de sexo o reasignación sexual.
+  - alt: dfdsfsfds
+    description: >-
+      Lorem ipsum
+    image: /img/placeholder-image.png
+    name: Implante de pantorrila
+  - alt: dfdsfsfds
+    description: >-
+      Lorem ipsum
+    image: /img/placeholder-image.png
+    name: Implantes de pectoral
+  - alt: dfdsfsfds
+    description: >-
+      Lorem ipsum
+    image: /img/placeholder-image.png
+    name: Umbilicoplastia (cirugía de ombligo)
+  - alt: dfdsfsfds
+    description: >-
+      Lorem ipsum
+    image: /img/placeholder-image.png
+    name: Corrección de cicatrices
+  - alt: dfdsfsfds
+    description: >-
+      Lorem ipsum
+    image: /img/placeholder-image.png
+    name: Cirugía de pezones
 ---
 

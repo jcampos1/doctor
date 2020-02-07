@@ -1,6 +1,6 @@
 ---
 templateKey: procedure-post
-title: CIRUGÍAS FACIALES
+title: Cirugías faciales
 thumbnail:
   alt: dfdfdf
   image: /img/proc1.png
@@ -17,8 +17,7 @@ procedures:
       naturales y hermosos.
     image: /img/placeholder-image.png
     name: >-
-      Cirugía de nariz (rinoplastia, septoplastía, turbinoplastia,
-      septorrinoplastia o rinoseptoplastia)
+      Cirugía de nariz
   - alt: dassadas
     description: >-
       Consiste en el aumento de los senos, ya sea con implantes mamarios o con
@@ -28,7 +27,7 @@ procedures:
       naturales y hermosos.
     image: /img/placeholder-image.png
     name: >-
-      Rejuvenecimiento facial (lifting, reconstitución del tercio inferior).
+      Rinoplastia
   - alt: dassadas
     description: >-
       Consiste en el aumento de los senos, ya sea con implantes mamarios o con
@@ -37,7 +36,7 @@ procedures:
       mejor técnica según el tipo de senos, proporcionando así, resultados
       naturales y hermosos.
     image: /img/placeholder-image.png
-    name: Blefaroplastia superior u operación de párpados
+    name: Septoplastia
   - alt: dassadas
     description: >-
       Consiste en el aumento de los senos, ya sea con implantes mamarios o con
@@ -45,7 +44,62 @@ procedures:
       de cada uno.  utilizamos  implantes de última tecnología y escogemos la
       mejor técnica según el tipo de senos, proporcionando así, resultados
       naturales y hermosos.
+    image: /img/placeholder-image.png
+    name: Turbinoplastia
+  - alt: dassadas
+    description: >-
+      Lorem ipsum
+    image: /img/placeholder-image.png
+    name: Mentoplastia
+  - alt: dassadas
+    description: >-
+      Lorem ipsum
+    image: /img/placeholder-image.png
+    name: Rejuvenecimiento facial (lifting, reconstitución del tercio inferior)
+  - alt: dassadas
+    description: >-
+      Lorem ipsum
+    image: /img/placeholder-image.png
+    name: Blefaroplastia superior e inferior (operación de párpados)
+  - alt: dassadas
+    description: >-
+      Lorem ipsum
     image: /img/placeholder-image.png
     name: Bichectomía o cirugía maxilofacial
+  - alt: dassadas
+    description: >-
+      Lorem ipsum
+    image: /img/placeholder-image.png
+    name: Pexia o levantamiento de cejas
+  - alt: dassadas
+    description: >-
+      Lorem ipsum
+    image: /img/placeholder-image.png
+    name: Aumento de pómulo
+  - alt: dassadas
+    description: >-
+      Lorem ipsum
+    image: /img/placeholder-image.png
+    name: Otoplastia (cirugía de orejas)
+  - alt: dassadas
+    description: >-
+      Lorem ipsum
+    image: /img/placeholder-image.png
+    name: Implante o injerto capilar
+  - alt: dassadas
+    description: >-
+      Lorem ipsum
+    image: /img/placeholder-image.png
+    name: Liposucción de papada
+  - alt: dassadas
+    description: >-
+      Lorem ipsum
+    image: /img/placeholder-image.png
+    name: Feminización facial
+  - alt: dassadas
+    description: >-
+      Lorem ipsum
+    image: /img/placeholder-image.png
+    name: Masculinización facial
 ---
 

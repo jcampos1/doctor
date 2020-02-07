@@ -85,9 +85,9 @@ const Procedures = ({
                             <div
                                 style={{backgroundColor: "#f4f5fa"}} 
                                 className="w-50 d-flex flex-column justify-content-center ml-2 px-5 py-3 h-100">
-                                <h3 className="text-muted font-weight-bold">
+                                <h4 className="text-muted font-weight-bold">
                                     {selected.frontmatter.title}
-                                </h3>
+                                </h4>
                                 <PerfectScrollbar>
                                     <ul 
                                         className="pl-0"

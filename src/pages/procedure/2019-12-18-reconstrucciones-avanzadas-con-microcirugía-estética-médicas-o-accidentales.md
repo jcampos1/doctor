@@ -1,6 +1,6 @@
 ---
 templateKey: procedure-post
-title: 'RECONSTRUCCIONES AVANZADAS CON MICROCIRUGÍA ESTÉTICA, MÉDICAS O ACCIDENTALES'
+title: 'Reconstrucciones avanzadas con microcirugía estética, médicas o accidentales'
 thumbnail:
   alt: asadsad
   image: /img/proc3.png

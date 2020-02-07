@@ -41,6 +41,7 @@ collections:
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "procedure-post"}
       - {label: "Título", name: title, widget: string}
+      - {label: "Subtítulo", name: subtitle, widget: string, required: false}
       - {label: "Imagen thumbnail", name: "thumbnail", widget: "object", fields: [{label: "Imagen", name: image, widget: image}, {label: "Texto alternativo", name: alt, widget: string}]}
       - {label: "Imagen de portada", name: "cover", widget: "object", fields: [{label: "Imagen", name: image, widget: image}, {label: "Texto alternativo", name: alt, widget: string}]}
       - {label: "Aviso", name: "prompt", required: false, widget: object, fields: [{label: "Imagen", name: image, widget: image}, {label: "Texto alternativo", name: alt, widget: string},{label: "Texto", name: content, widget: markdown}]}
