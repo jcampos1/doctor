@@ -14,10 +14,11 @@ export const BlogPost2Template = ({
     title, 
     author,
     image,
-    body
-}) => {
+    body,
+    isPreview = false
+}) => { 
     return (
-        <>
+        <div id={isPreview ? "blog-post" : ""}>
             <section
                 className="jumbotron jumbotron-fluid p-0 m-0 position-relative">
                 <img 
@@ -36,14 +37,18 @@ export const BlogPost2Template = ({
                 </div>
                 <div className="d-flex flex-column">
                     <h2 className="mb-4 mx-auto mx-md-0 text-muted font-weight-bold">{title}</h2>
-                    <div className="d-flex align-items-center text-muted mx-auto mx-md-0">
-                        <img 
-                            className="icon-meta"
-                            src="/img/icon-date.svg"
-                            alt="icon date" />
-                            {/* 2h ago */}
-                            {date}
-                    </div>
+                    {
+                        !isPreview && (
+                            <div className="d-flex align-items-center text-muted mx-auto mx-md-0">
+                                <img 
+                                    className="icon-meta"
+                                    src="/img/icon-date.svg"
+                                    alt="icon date" />
+                                    {/* 2h ago */}
+                                    {date}
+                            </div>
+                        )
+                    }
                     <div className="d-flex align-items-center text-muted mx-auto mx-md-0">
                         <img 
                             className="icon-meta"
@@ -56,7 +61,7 @@ export const BlogPost2Template = ({
                     </div>
                 </div>
             </section>
-        </>
+        </div>
     )
 }
 
