@@ -22,7 +22,7 @@ resumeProfile:
     youtube: 'https://youtube.com'
 testimonials:
   - alt: cxvcxvxv
-    image: /img/cristina.jpeg
+    image: /img/cristina.png
     resume: >-
       Tuve la fortuna de atenderme con la Dra. Carolina con la que me realicé
       una exfoliación facial con carbón que me dejó la piel más firme y
@@ -31,7 +31,7 @@ testimonials:
       tratamientos no quirúrgicos que recomiendo totalmente.
     title: Cristina Hidalgo (Modelo- Miss Ecuador 2019)
   - alt: asdasdad
-    image: /img/maros.jpeg
+    image: /img/marcos.png
     resume: >-
       La Dra. Es como una amiga porque quiere lo mejor para el paciente, y no
       solo lo que está de moda, sino vela primero en pro de la salud, y cuando
