@@ -1,18 +1,11 @@
 ---
 templateKey: product-page
-name: product1
-thumbnail:
-  alt: fdfdf
-  image: /img/proc2.png
+name: Brasier postquirúrgico
 cover:
   alt: dsfdsf
-  image: /img/cirugias-faciales.png
   altProd: fdfdf
-  imageProd: /img/proc2.png
-prod:
-  - name: prod1
-    alt: sdsd
-    image: /img/proc2.png
-    price: "2400"
+  image: /img/icon-brasier-band.svg
+  imageProd: /img/icon-brasier-band-white.svg
+prod: []
 ---
 
