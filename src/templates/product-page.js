@@ -39,6 +39,7 @@ export const ProductTemplate = ({
                         <div
                             className="mr-3 align-items-start d-block bg-2 framew-big d-flex align-items-center justify-content-center rounded-circle">
                                 <img 
+                                    style={{width: "50px"}} 
                                     src={item.cover.imageProd}
                                     alt={item.cover.altProd}
                                     className="framew-big__img img-fluid"
@@ -74,6 +75,7 @@ const Product = ({
     data
 }) => {
     const items = data.allMarkdownRemark.edges;
+    console.log('items :', items);
     return (
         <TemplateWrapper2 location={location}>
             <div id="product">
@@ -109,6 +111,7 @@ const Product = ({
                 </div>
                 {
                     items.map((item, index) => {
+                        const { prod } = item.node.frontmatter;
                         const _item = {
                             ...item,
                             name: item.node.frontmatter.name,
@@ -117,12 +120,12 @@ const Product = ({
                                 image: getImage(item.node.frontmatter.cover),
                                 imageProd: getImage(item.node.frontmatter.cover, "imageProd")
                             },
-                            prod: item.node.frontmatter.prod.map(ip => {
+                            prod: prod ? prod.map(ip => {
                                 return {
                                     ...ip,
                                     image: getImage(ip)
                                 }
-                            })
+                            }) : []
                         }
                         return (
                             <ProductTemplate

@@ -14,7 +14,7 @@ const Footer2 = () => {
                     className="d-flex flex-column flex-md-row ml-0 ml-md-5">
                     <h5
                         className="ml-0 mr-5 d-block d-md-inline-block font-weight-bold mb-0">
-                        2019
+                        2020
                     </h5>
                     <span
                         style={{opacity: ".8"}} 
