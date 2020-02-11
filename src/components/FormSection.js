@@ -27,9 +27,6 @@ const procedures = [{
     value: "Bichetmomia",
     label: "Bichetmomia"
 }, {
-    value: "Bichetmomia",
-    label: "Bichetmomia"
-}, {
     value: "Gluteoplastia",
     label: "Gluteoplastia"
 }, {
