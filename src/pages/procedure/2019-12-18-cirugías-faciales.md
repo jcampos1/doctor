@@ -9,96 +9,78 @@ cover:
   image: /img/cirugias-faciales.png
 procedures:
   - alt: dassadas
-    description: >-
-      Consiste en el aumento de los senos, ya sea con implantes mamarios o con
-      grasa del propio cuerpo del paciente según sea el caso y las necesidades
-      de cada uno.  utilizamos  implantes de última tecnología y escogemos la
-      mejor técnica según el tipo de senos, proporcionando así, resultados
-      naturales y hermosos.
+    description: "Para mejorar la apariencia estética de la nariz y su funcionalidad, se han descrito diversos tipos de\_ cirugías que aportan resultados según sea el caso,  como la septoplastía o\_ cirugía de septum nasal, la cual es la cirugía correctiva de tabique desviado, rinoplastia abierta o cerrada, que busca mejorar la forma y estructura de la nariz, turbinoplastia, para mejorar la\_ obstrucción en la respiración causada por el crecimiento de los cornetes. <br/>\n\nMi objetivo: siempre será lograr un resultado natural y estético en la rinoplastia para lo cual siempre realizo un análisis facial en la cara de cada paciente ya que la nariz es un componente importante que se relaciona con la proporción de todos los ángulos faciales."
     image: /img/placeholder-image.png
-    name: >-
-      Cirugía de nariz
-  - alt: dassadas
-    description: >-
-      Consiste en el aumento de los senos, ya sea con implantes mamarios o con
-      grasa del propio cuerpo del paciente según sea el caso y las necesidades
-      de cada uno.  utilizamos  implantes de última tecnología y escogemos la
-      mejor técnica según el tipo de senos, proporcionando así, resultados
-      naturales y hermosos.
-    image: /img/placeholder-image.png
-    name: >-
-      Rinoplastia
-  - alt: dassadas
-    description: >-
-      Consiste en el aumento de los senos, ya sea con implantes mamarios o con
-      grasa del propio cuerpo del paciente según sea el caso y las necesidades
-      de cada uno.  utilizamos  implantes de última tecnología y escogemos la
-      mejor técnica según el tipo de senos, proporcionando así, resultados
-      naturales y hermosos.
-    image: /img/placeholder-image.png
-    name: Septoplastia
-  - alt: dassadas
-    description: >-
-      Consiste en el aumento de los senos, ya sea con implantes mamarios o con
-      grasa del propio cuerpo del paciente según sea el caso y las necesidades
-      de cada uno.  utilizamos  implantes de última tecnología y escogemos la
-      mejor técnica según el tipo de senos, proporcionando así, resultados
-      naturales y hermosos.
-    image: /img/placeholder-image.png
-    name: Turbinoplastia
-  - alt: dassadas
-    description: >-
-      Lorem ipsum
+    name: Cirugía de nariz
+  - alt: sdfdsf
+    description: "Consiste en aumentar las dimensiones del mentón,\_ ya sea con implantes o con grasa del propio paciente,\_ logrando un aspecto más armónico de los ángulos faciales."
     image: /img/placeholder-image.png
     name: Mentoplastia
-  - alt: dassadas
-    description: >-
-      Lorem ipsum
+  - alt: dsfdsfdsf
+    description: |-
+      * Lifting facial(estiramiento facial).
+      * Blefaroplastia superior e inferior.
     image: /img/placeholder-image.png
-    name: Rejuvenecimiento facial (lifting, reconstitución del tercio inferior)
-  - alt: dassadas
+    name: Rejuvenecimiento facial
+  - alt: sdfsdf
     description: >-
-      Lorem ipsum
+      Esta cirugía es perfecta para las personas que deseen tener una apariencia
+      más joven alrededor de los ojos, o en otro caso mejorar la visión, ya que
+      permite levantar los párpados caídos extrayendo las bolsas grasas o
+      quitando exceso de piel.
     image: /img/placeholder-image.png
-    name: Blefaroplastia superior e inferior (operación de párpados)
-  - alt: dassadas
-    description: >-
-      Lorem ipsum
+    name: "Blefaroplastia superior\_ e inferior  (operación de párpados)"
+  - alt: dfdfd
+    description: "Es un procedimiento que\_ perfila el rostro extrayendo las bolsas de bichat que se encuentran localizadas en el tercio inferior de la cara, causantes de que el rostro se vea más lleno y menos perfilado, dando un contorno más delicado y sexy. Se puede realizar tanto en hombres como en mujeres que buscan objetivos específicos según los ángulos faciales estudiados."
     image: /img/placeholder-image.png
-    name: Bichectomía o cirugía maxilofacial
-  - alt: dassadas
+    name: Bichectomía (cirugía maxilofacial)
+  - alt: sdfdsf
     description: >-
-      Lorem ipsum
+      En algunos pacientes que requieren levantamiento de cejas quirúrgico, se
+      emplean técnicas con mínimas incisiones que realzan la mirada logrando un
+      aspecto menos cansado y más joven.
     image: /img/placeholder-image.png
     name: Pexia o levantamiento de cejas
-  - alt: dassadas
-    description: >-
-      Lorem ipsum
+  - alt: dsfdsf
+    description: "Este procedimiento se realiza con la propia grasa del paciente o con implantes según sea el caso,\_ mejorando ángulos faciales y logrando un aspecto más sexy y femenino."
     image: /img/placeholder-image.png
-    name: Aumento de pómulo
-  - alt: dassadas
+    name: Aumento de pómulos
+  - alt: sdfsdf
     description: >-
-      Lorem ipsum
+      La cirugía de orejas se realiza para mejor su forma estudiando previamente
+      qué tipo de deformidad tiene el paciente, ya sea adquirida o por
+      nacimiento.
     image: /img/placeholder-image.png
     name: Otoplastia (cirugía de orejas)
-  - alt: dassadas
+  - alt: sfdsf
     description: >-
-      Lorem ipsum
+      El transplante de cabello, como también se le conoce a este procedimiento,
+      permite reconstruir zonas sin pelo utilizando diversas técnicas según el
+      tipo de alopecia y caso específico del paciente. La cantidad de cabello
+      trasplantado dependerá del caso de cada persona.
     image: /img/placeholder-image.png
     name: Implante o injerto capilar
-  - alt: dassadas
+  - alt: sdfsdf
     description: >-
-      Lorem ipsum
+      La liposucción de papada es una cirugía que permite mejorar los ángulos de
+      la cara extrayendo la grasa localizada en la parte inferior de la
+      mandíbula y cuello, logrando un perfilamiento facial estilizado y
+      armonioso.
     image: /img/placeholder-image.png
     name: Liposucción de papada
-  - alt: dassadas
+  - alt: sdfdsfdsf
     description: >-
-      Lorem ipsum
+      Esta cirugía es una opción que permite a las mujeres lograr una estructura
+      facial más delicada y bonita, ya que mejora los ángulos faciales otorgando
+      un aspecto más femenino. Esta cirugía incluye varios procedimientos de los
+      antes mencionados, según sea el caso.
     image: /img/placeholder-image.png
     name: Feminización facial
-  - alt: dassadas
+  - alt: fdgfdgfdg
     description: >-
-      Lorem ipsum
+      La masculinización facial es una cirugía que ayuda a definir y resaltar
+      los rasgos faciales masculinos. Incluye varios procedimientos de los antes
+      mencionados, según sea el caso.
     image: /img/placeholder-image.png
     name: Masculinización facial
 ---
