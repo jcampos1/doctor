@@ -21,25 +21,20 @@ prompt:
     superiores e inferiores, y reconstrucción de mamas.
   image: /img/alert.svg
 procedures:
-  - alt: asdsadads
+  - alt: dsfdsfds
     description: >-
-      Consiste en el aumento de los senos, ya sea con implantes mamarios o con
-      grasa del propio cuerpo del paciente según sea el caso y las necesidades
-      de cada uno.  utilizamos  implantes de última tecnología y escogemos la
-      mejor técnica según el tipo de senos, proporcionando así, resultados
-      naturales y hermosos.
+      La reconstrucción mamaria es un procedimiento que permite reconstruir el
+      seno de forma parcial o total cuando se ha perdido, como resultado de
+      cáncer, cirugías, alteraciones genéticas, entre otras.
+
+
+      Existen muchas técnicas de reconstrucción mamaria que permiten mejorar la
+      calidad de vida en las mujeres que han pasado por estos procesos. Y aunque
+      algunas personas piensen que buscar una reconstrucción es un acto de
+      banalidad, en realidad deben conocer que el seno es un órgano muy
+      importante en la mujer y que cumple muchas funciones importantes además de
+      estéticas.
     image: /img/placeholder-image.png
-    name: Reconstrucción mamaria parcial o total
-  - alt: asdasdads
-    description: >-
-      Consiste en el aumento de los senos, ya sea con implantes mamarios o con
-      grasa del propio cuerpo del paciente según sea el caso y las necesidades
-      de cada uno.  utilizamos  implantes de última tecnología y escogemos la
-      mejor técnica según el tipo de senos, proporcionando así, resultados
-      naturales y hermosos.
-    image: /img/placeholder-image.png
-    name: >-
-      Reconstrucciones en cabeza, cuello y demás miembros superiores e
-      inferiores
+    name: Reconstrucción mamaria parcial o total.
 ---
 
