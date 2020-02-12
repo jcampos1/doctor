@@ -19,7 +19,7 @@ resumeProfile:
     facebook: 'https://facebook.com'
     instagram: 'https://www.instagram.com/carvajalcirugiaplastica/'
     wathsapp: 'https://wathsapp.com'
-    youtube: 'https://youtube.com'
+    youtube: 'https://www.youtube.com/channel/UCxAgsJY4LVJ7T1JZp8BUpOQ'
 testimonials:
   - alt: cxvcxvxv
     image: /img/cristina.png
