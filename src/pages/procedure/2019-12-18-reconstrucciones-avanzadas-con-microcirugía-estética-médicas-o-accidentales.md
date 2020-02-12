@@ -7,7 +7,7 @@ thumbnail:
   image: /img/proc3.png
 cover:
   alt: dsdsfsdf
-  image: /img/cirugias-faciales.png
+  image: /img/reconstrucciones.png
 prompt:
   alt: dffdf
   content: >-
