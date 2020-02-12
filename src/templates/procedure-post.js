@@ -84,13 +84,13 @@ const ProcedurePost = ({
     data
 }) => {
     const { title, cover, procedures: items, prompt } = data.markdownRemark.frontmatter;
-    const image = cover.image.childImageSharp.fluid.src;
+    const image = cover.image && cover.image.childImageSharp ? cover.image.childImageSharp.fluid.src : cover.image;
 
     let _prompt = prompt;
     if(prompt)
       _prompt = {
         ...prompt,
-        image: prompt.image.childImageSharp ? prompt.image.childImageSharp.fluid.src : prompt.image.publicURL
+        image: prompt.image && prompt.image.childImageSharp ? prompt.image.childImageSharp.fluid.src : prompt.image.publicURL
       }
 
     return (
