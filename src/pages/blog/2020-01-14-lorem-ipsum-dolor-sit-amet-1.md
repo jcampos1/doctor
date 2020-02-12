@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-featuredimage: /img/blog2.png
+featuredimage: /img/botox.png
 altFeatured: gfhfghfgh
 description: Aplicación de Toxina Botulínica (Botox) para suavizar y prevenir arrugas
 title: Aplicación de Toxina Botulínica (Botox) para suavizar y prevenir arrugas
@@ -10,9 +10,9 @@ author:
   name: Carolina Carvajal
   photo: /img/carolina.png
 featuredpost: true
-coverImage: /img/blog3-big.png
+coverImage: /img/botox-cover.png
 altCover: fsgdfgdfgdf
-listImage: /img/blog3-big.png
+listImage: /img/botox.png
 altList: fdgdfgfdg
 tags:
   - botox

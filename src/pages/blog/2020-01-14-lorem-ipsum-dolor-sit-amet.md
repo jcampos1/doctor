@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-featuredimage: /img/blog1.png
+featuredimage: /img/rinoplastia.png
 altFeatured: texto alternativo aqui
 description: |-
   Todo lo que necesitas saber antes de hacerte una
@@ -14,9 +14,9 @@ author:
   name: Carolina Carvajal
   photo: /img/carolina.png
 featuredpost: true
-coverImage: /img/blog1-big.png
+coverImage: /img/rinoplastia-cover.png
 altCover: fdgfdgdfg
-listImage: /img/blog1-big.png
+listImage: /img/rinoplastia.png
 altList: fgdgdgfdg
 tags:
   - rinoplastia

@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-featuredimage: /img/blog3.png
+featuredimage: /img/mamoplastia.png
 altFeatured: gfhfh
 description: 'Mamoplastia de aumento para reconstruir el seno después de una mastectomía  '
 title: 'Mamoplastia de aumento para reconstruir el seno después de una mastectomía  '
@@ -10,9 +10,9 @@ author:
   name: Carolina Carvajal
   photo: /img/carolina.png
 featuredpost: true
-coverImage: /img/blog2-big.png
+coverImage: /img/mamoplastia-cover.png
 altCover: fdgfdgdf
-listImage: /img/blog2-big.png
+listImage: /img/mamoplastia.png
 altList: dfsdfdf
 tags:
   - dsfdsfdsdfs
