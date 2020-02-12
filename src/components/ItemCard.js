@@ -1,4 +1,7 @@
 import React from 'react'
+import showdown from 'showdown';
+
+const converter = new showdown.Converter()
 
 const Title = ({
     title
@@ -44,11 +47,10 @@ const ItemCard = ({
                     <div className="col-md-9">
                         <Title 
                             title={title} />
-                        <p 
-                            style={{fontSize: "14px"}}
-                            className="text-muted mt-4">
-                            {resume}
-                        </p>
+                        <div
+                            style={{fontSize: "14px"}} 
+                            className="text-muted mt-4"
+                            dangerouslySetInnerHTML={{ __html: converter.makeHtml(resume) }} />
                     </div>
                 </div>
             </div>
