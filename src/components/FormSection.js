@@ -92,21 +92,39 @@ const FormSection = ({
                         className="d-flex flex-column flex-md-row justify-content-between align-items-center">
                         {/* CONTACTS */}
                         <div className="h-100 order-2 order-md-1 mt-3 mt-md-0">
+                            {/* email */}
                             <img 
                                 style={{height: "140px", width: "400px"}}
-                                src="/img/email-card.png" 
+                                src="/img/correo.png" 
                                 alt="email card"
-                                className="img-fluid d-block" />
+                                className="img-fluid d-none d-md-block" />
                             <img 
                                 style={{height: "140px", width: "400px"}}
-                                src="/img/phone-card.png" 
+                                src="/img/correo-mobile.png" 
+                                alt="email card"
+                                className="img-fluid d-block d-md-none" />
+                            {/* phone */}
+                            <img 
+                                style={{height: "140px", width: "400px"}}
+                                src="/img/phone.png" 
                                 alt="phone card"
-                                className="img-fluid d-block mt-3 mt-md-4" />
+                                className="img-fluid d-none d-md-block mt-3 mt-md-4" />
                             <img 
                                 style={{height: "140px", width: "400px"}}
-                                src="/img/address-card.png" 
+                                src="/img/phone-mobile.png" 
+                                alt="phone card"
+                                className="img-fluid d-block d-md-none mt-3 mt-md-4" />
+                            {/* address */}
+                            <img 
+                                style={{height: "140px", width: "400px"}}
+                                src="/img/address.png" 
                                 alt="address card"
-                                className="img-fluid d-block mt-3 mt-md-4" />
+                                className="img-fluid d-none d-md-block mt-3 mt-md-4" />
+                            <img 
+                                style={{height: "140px", width: "400px"}}
+                                src="/img/address-mobile.png" 
+                                alt="address card"
+                                className="img-fluid d-block d-md-none mt-3 mt-md-4" />
                         </div>
                         {/* FORM */}
                         <div className="order-1 order-md-2">
