@@ -2,9 +2,7 @@
 templateKey: blog-post
 featuredimage: /img/blog2.png
 altFeatured: gfhfghfgh
-description: >-
-  Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo
-  ligula eget dolor. Aenean massa. Cum sociis natoque
+description: Aplicación de Toxina Botulínica (Botox) para suavizar y prevenir arrugas
 title: Aplicación de Toxina Botulínica (Botox) para suavizar y prevenir arrugas
 date: 2020-01-14T16:02:32.782Z
 author:
