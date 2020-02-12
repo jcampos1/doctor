@@ -17,7 +17,7 @@ resumeProfile:
   name: Dra Carolina Carvajal
   networks:
     facebook: 'https://facebook.com'
-    instagram: 'https://instagram.com'
+    instagram: 'https://www.instagram.com/carvajalcirugiaplastica/'
     wathsapp: 'https://wathsapp.com'
     youtube: 'https://youtube.com'
 testimonials:
