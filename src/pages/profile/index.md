@@ -26,9 +26,9 @@ description: >-
   autoestima, ambas áreas necesarias para lograr la mejor versión de cada
   persona.
 networks:
-  facebook: 'https://facebook.com'
+  facebook: 'https://www.facebook.com/carvajalcirugiaplastica/'
   instagram: 'https://www.instagram.com/carvajalcirugiaplastica/'
-  wathsapp: 'https://wathsapp.com'
+  wathsapp: +57304 6756499
   youtube: 'https://www.youtube.com/channel/UCxAgsJY4LVJ7T1JZp8BUpOQ'
 ---
 
