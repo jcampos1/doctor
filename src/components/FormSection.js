@@ -1,10 +1,11 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { Formik, Field, Form } from 'formik';
 import Feature2 from './Feature2';
 import * as Yup from "yup";
+import axios from 'axios';
 
 const schema = Yup.object().shape({
-    name: Yup
+    firstname: Yup
         .string()
         .required("Este campo es requerido."),
     email: Yup
@@ -47,8 +48,35 @@ const procedures = [{
 const FormSection = ({
     title
 }) => {
-    const handleSubmit = data => {
-        console.log('data :', data);
+    const [isLoading, setIsLoading] = useState(false);
+    const initialValues = {firstname: "", phone: "", email: "", terms: false,};
+
+    const handleSubmit = (obj, resetForm) => {
+        const _obj = {
+            ...obj
+        }
+        delete _obj.terms;
+        setIsLoading(true);
+        let fields = Object.keys(_obj).map(key => ({name: key, value: obj[key]}));
+
+        const data = {
+            fields, 
+            context: {
+                pageUri: "https://stupefied-dubinsky-0c0195.netlify.com",
+                pageName: "Lanzamiento",
+            },
+            skipValidation: false
+        }
+        
+        axios.post('https://api.hsforms.com/submissions/v3/integration/submit/7149988/7846c847-ac87-46a3-a824-10403b6752b5', data)
+          .then(function (response) {
+            alert('¡Gracias por contactarnos! \n Pronto estaremos en contacto.');
+            resetForm(initialValues)
+            setIsLoading(false);
+          })
+          .catch(function (error) {
+            setIsLoading(false);
+          });
     }
 
     return (
@@ -129,12 +157,7 @@ const FormSection = ({
                         {/* FORM */}
                         <div className="order-1 order-md-2">
                             <Formik
-                                initialValues={{
-                                    name: "",
-                                    terms: false,
-                                    email: "",
-                                    phone: ""
-                                }}
+                                initialValues={initialValues}
                                 validationSchema={schema}
                                 onSubmit={() => null}>
                                 {({ 
@@ -145,6 +168,7 @@ const FormSection = ({
                                     handleBlur,
                                     setFieldValue, 
                                     setFieldTouched,
+                                    resetForm,
                                     isValid
                                 }) => (
                                     <div className="container-form bg-white">
@@ -156,12 +180,12 @@ const FormSection = ({
                                                 </label>
                                                 <Field
                                                     className="form-control"
-                                                    name="name"
+                                                    name="firstname"
                                                     placeholder="Ingrese su nombre y apellidos completos."
                                                 />
-                                                {errors.name && touched.name && (
+                                                {errors.firstname && touched.firstname && (
                                                     <div className="invalid-feedback d-block">
-                                                        {errors.name}
+                                                        {errors.firstname}
                                                     </div>
                                                 )}
                                             </div>
@@ -204,8 +228,8 @@ const FormSection = ({
                                                 </label>
                                                 <select
                                                     className="form-control"
-                                                    name="procedure"
-                                                    value={values.procedure}
+                                                    name="tipo_de_procedimiento"
+                                                    value={values.tipo_de_procedimiento}
                                                     onChange={handleChange}
                                                     onBlur={handleBlur}
                                                     style={{ display: 'block' }}
@@ -254,12 +278,21 @@ const FormSection = ({
                                                 </div>
                                             </div>
                                             <button
-                                                onClick={() => handleSubmit(values)} 
+                                                onClick={() => handleSubmit(values, resetForm)} 
                                                 disabled={!isValid || !values.terms}
-                                                style={{backgroundColor: "#957bcc"}}
+                                                style={{
+                                                    backgroundColor: "#957bcc",
+                                                    opacity: !isValid ? ".7" : "1"
+                                                }}
                                                 type="submit" 
                                                 className="btn px-4 mt-2 d-flex mx-auto text-white font-weight-bold">
-                                                Solicitar información
+                                                {
+                                                    isLoading ? (
+                                                        <>Enviando solicitud...</>
+                                                    ) : (
+                                                        <>Solicitar información</>
+                                                    )
+                                                }
                                             </button>
                                         </Form>
                                     </div>
