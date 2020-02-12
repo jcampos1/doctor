@@ -16,7 +16,7 @@ const Item = ({
     return (
         <div
             style={{borderRadius: "14px", backgroundColor: "#cac9c9"}} 
-            className="d-flex justify-content-between align-items-center px-4 py-3">
+            className="item-prod d-flex justify-content-between align-items-center px-4 py-3">
             <div className="d-flex align-items-center">
                 <div
                     className="framew d-flex align-items-center justify-content-center bg-white rounded-circle mr-sm-3">
@@ -32,25 +32,6 @@ const Item = ({
                 </span>
             </div>
             <ButtonMore to={url} />
-
-            {/* <Link 
-                to={url}
-                style={{backgroundColor: "#957bcc"}}
-                className="btn px-4 text-muted d-none d-md-block">
-                Ver mas
-                <span
-                    style={{width: "18px", height: "18px", border: "solid 1px #707070"}} 
-                    className="d-inline-flex align-items-center justify-content-center rounded-circle ml-2">+</span>
-            </Link>
-            <Link 
-                style={{backgroundColor: "#957bcc"}}
-                to={url} 
-                className="btn btn-sm px-4 text-muted d-block d-md-none">
-                Ver mas
-                <span
-                    style={{width: "18px", height: "18px", border: "solid 1px #707070"}} 
-                    className="d-inline-flex align-items-center justify-content-center rounded-circle ml-2">+</span>
-            </Link> */}
         </div>
     )
 }
@@ -60,7 +41,6 @@ const MAX_PER_SLIDE = 4;
 const Products = ({
     title,
     data
-    // items
 }) => {
     const [productsSet, setProductsSet] = useState([]);
 

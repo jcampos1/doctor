@@ -71,7 +71,7 @@
     }
 
     /* PRODUCTS */
-    #products .framew {
+    #product .framew {
         width: 4rem !important;
         height: 4rem !important;
     }
@@ -81,9 +81,18 @@
         height: 2.7rem;
     }
 
-    #products .framew__desc {
+    #product .framew__desc {
+        font-size: .8rem !important;
+        width: 6rem !important;
+    }
+
+    #product .item-prod {
+        padding: 1rem .5rem !important;
+    }
+
+    #product .item-prod a.btn {
         font-size: .9rem;
-        width: 5rem !important;
+        padding: 0 1rem;
     }
 
     /* SOCIAL NETWORKS */
