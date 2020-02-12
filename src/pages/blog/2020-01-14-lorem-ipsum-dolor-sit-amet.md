@@ -10,9 +10,9 @@ title: >-
   (Rinoplastia)
 date: 2020-01-14T15:55:45.530Z
 author:
-  alt: texto alternativo auqi
-  name: Junior Campos
-  photo: /img/author-image.png
+  alt: Carolina Carvajal
+  name: Carolina Carvajal
+  photo: /img/carolina.png
 featuredpost: true
 coverImage: /img/blog1-big.png
 altCover: fdgfdgdfg

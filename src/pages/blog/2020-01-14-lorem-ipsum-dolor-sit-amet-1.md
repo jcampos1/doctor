@@ -6,9 +6,9 @@ description: Aplicación de Toxina Botulínica (Botox) para suavizar y prevenir 
 title: Aplicación de Toxina Botulínica (Botox) para suavizar y prevenir arrugas
 date: 2020-01-14T16:02:32.782Z
 author:
-  alt: fdsfdsf
-  name: Mayerson Jimenez
-  photo: /img/author-image.png
+  alt: Carolina Carvajal
+  name: Carolina Carvajal
+  photo: /img/carolina.png
 featuredpost: true
 coverImage: /img/blog3-big.png
 altCover: fsgdfgdfgdf

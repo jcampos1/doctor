@@ -6,9 +6,9 @@ description: 'Mamoplastia de aumento para reconstruir el seno después de una ma
 title: 'Mamoplastia de aumento para reconstruir el seno después de una mastectomía  '
 date: 2020-01-14T16:03:50.181Z
 author:
-  alt: fdgdgdfg
-  name: Gerswin Pineda
-  photo: /img/author-image.png
+  alt: Carolina Carvajal
+  name: Carolina Carvajal
+  photo: /img/carolina.png
 featuredpost: true
 coverImage: /img/blog2-big.png
 altCover: fdgfdgdf
