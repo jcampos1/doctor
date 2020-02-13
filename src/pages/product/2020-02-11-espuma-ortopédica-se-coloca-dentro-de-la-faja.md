@@ -1,6 +1,6 @@
 ---
 templateKey: product-page
-name: Espuma ortopédica (se coloca dentro de la faja)
+name: Espuma ortopédica
 cover:
   alt: dsfdsf
   altProd: fdgfd
