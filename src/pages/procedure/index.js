@@ -25,10 +25,27 @@ const Procedures = ({
             if(obj)
                 setSelected(obj.node)
             
-            setProcedures(_procedures);
+            const items = [];
+
+            const faciales = _procedures.find(_p => _p.node.frontmatter.title.includes("faciales"));
+            const corporal = _procedures.find(_p => _p.node.frontmatter.title.includes("corporales"));
+            const reconstrucciones = _procedures.find(_p => _p.node.frontmatter.title.includes("Reconstrucciones"));
+            const quirurgicos = _procedures.find(_p => _p.node.frontmatter.title.includes("quirúrgicos"));
+            
+            if(faciales)
+                items.push(faciales)
+            if(corporal)
+                items.push(corporal)
+            if(reconstrucciones)
+                items.push(reconstrucciones)
+            if(quirurgicos)
+                items.push(quirurgicos)
+
+            setProcedures(items);
         }
     }, []);
 
+    console.log('procedures :', procedures);
     return (
         <div
             id="procedure" 

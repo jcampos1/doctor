@@ -99,7 +99,7 @@ const BlogPost2 = ({
                             posts.map((p, index) => (
                                 <div
                                     key={`post${index}`} 
-                                    className="col-lg-6 mb-5 mb-lg-0 d-flex flex-column align-items-center mt-3">
+                                    className="col-lg-4 mb-5 mb-lg-0 d-flex flex-column align-items-center mt-3">
                                     <img 
                                         className="shadow-sm w-100"
                                         src={p.node.frontmatter.featuredimage.childImageSharp.fluid.src}
