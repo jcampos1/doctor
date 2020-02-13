@@ -38,7 +38,7 @@ const ItemCard = ({
                 style={{borderRadius: "15px"}}
                 className="d-none d-md-block bg-light py-4 px-3 h-100">
                 <div className="row">
-                    <div className="col-md-3">
+                    <div className="col-md-3 d-flex align-items-center">
                         <img 
                             src={image}
                             alt={alt}

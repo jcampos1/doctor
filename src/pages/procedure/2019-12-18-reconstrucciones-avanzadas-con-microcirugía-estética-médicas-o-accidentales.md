@@ -34,7 +34,7 @@ procedures:
       banalidad, en realidad deben conocer que el seno es un órgano muy
       importante en la mujer y que cumple muchas funciones importantes además de
       estéticas.
-    image: /img/placeholder-image.png
+    image: /img/reco-mamaria.png
     name: Reconstrucción mamaria parcial o total.
 ---
 
