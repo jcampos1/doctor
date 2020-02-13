@@ -31,16 +31,16 @@ Como ya es sabido, **el cáncer de mamá es la razón del por qué se realiza un
 
 **Algunos tipos de mastectomía son:**
 
-* **Mastectomía preventiva<br/>**Esta cirugía se realiza en pacientes que poseen altos riesgos de presentar cáncer de mamas, por ello se realiza una extirpación de ambos senos para evitar que en el futuro se desarrolle el cáncer en las glándulas mamarias. 
-* **Mastectomía simple o total**<br/>Conocida también como mastectomía de conservación de piel, implica la extracción tanto el tejido mamario, el pezón, como la areola, pero no la piel del seno.
-* **Mastectomía parcial o de conservación de pezó**n<br/>Este tipo de mastectomía implica solo la extirpación del tejido, dejando intacto el pezón. 
+* **Mastectomía preventiva<br/>**Esta cirugía se realiza en pacientes que poseen altos riesgos de presentar cáncer de mamas, por ello se realiza una extirpación de ambos senos para evitar que en el futuro se desarrolle el cáncer en las glándulas mamarias. <br/><br/>
+* **Mastectomía simple o total**<br/>Conocida también como mastectomía de conservación de piel, implica la extracción tanto el tejido mamario, el pezón, como la areola, pero no la piel del seno.<br/><br/>
+* **Mastectomía parcial o de conservación de pezó**n<br/>Este tipo de mastectomía implica solo la extirpación del tejido, dejando intacto el pezón.<br/><br/>
 * **Mastectomía radical modificada**<br/>La mastectomía radical es una cirugía en la que se extirpa la glándula mamaría, casi todos o todos los ganglios linfáticos que se encuentran debajo del brazo y el tejido que recubre los músculos del pecho. <br/><br/>
 
-## **Lo que sigue después de una mastectomía** 
+## **Lo que sigue después de una mastectomía**
 
 <br/>Después de haber pasado por todo ese proceso de extirpación de senos, es común que busques donde realizarte una reconstrucción mamaria que te devuelva la autoestima, misma que reforzará tu apariencia física y estado psicológico, ya que para toda mujer el aspecto de los senos es una parte muy importante de como se ven y se sienten.<br/><br/>
 
-## **Objetivo de la reconstrucción mamaria** 
+## **Objetivo de la reconstrucción mamaria**
 
 <br/>Una vez que la paciente está libre del cáncer y tiene optimas condiciones de salud, el objetivo de realizar una cirugía de senos reconstructiva es simple, es dar un aspecto visual agradable y simétrico a los senos mediante una mamoplastia de aumento, para devolver a las mujeres que han pasado por una mastectomía, un aspecto físico igual o mejor al que tenían.
 
@@ -58,12 +58,12 @@ Además de los implantes, la grasa es otra forma de dar volumen a los senos, y s
 
 <br/>Existen diferentes tipos de incisiones para colocar los implantes mamarios. A continuación, te las explicamos:
 
-* **Periareola**r<br/>La incisión periareolar se hace entre la línea de la circunferencia de color marrón de la areola, y el color blanco u otros tonos de piel del seno. Para realizar este tipo de incisión en necesario que el tamaño de areola de la paciente se encuentre entre 4 y 5 cm como mínimo, sin embargo, no es una regla estricta, y puede tener variantes según la apreciación del cirujano. 
+* **Periareola**r<br/>La incisión periareolar se hace entre la línea de la circunferencia de color marrón de la areola, y el color blanco u otros tonos de piel del seno. Para realizar este tipo de incisión en necesario que el tamaño de areola de la paciente se encuentre entre 4 y 5 cm como mínimo, sin embargo, no es una regla estricta, y puede tener variantes según la apreciación del cirujano. <br/><br/>
 * **Submamaria**<br/>La ventaja de esta incisión es que permite colocar los implantes sin tocar la glándula mamaria y el pezón, además, la incisión queda oculta debajo del pliegue inframamario. <br/><br/>Hay varios lugares en que se puede colocar el implante por esta incisión, una es debajo del musculo pectoral y otra en la capa superficial también del musculo pectoral. También hay otros planos en que se puede colocar. 
 
 Otras incisiones son:
 
-* **Periumbilical**<br/>Es una incisión que se realiza en el ombligo mediante un endoscopio, y es una técnica más invasiva. En la actualidad son muy pocos los cirujanos que la realizan, ya que se deben introducir por el ombligo los implantes vacíos, y una vez ubicados en el seno se proceden a rellenar. 
+* **Periumbilical**<br/>Es una incisión que se realiza en el ombligo mediante un endoscopio, y es una técnica más invasiva. En la actualidad son muy pocos los cirujanos que la realizan, ya que se deben introducir por el ombligo los implantes vacíos, y una vez ubicados en el seno se proceden a rellenar. <br/><br/>
 * **Transaxilar**<br/>Para las mujeres que desean colocar implantes de silicona, esta técnica no es la más recomendada, ya que dificultad su colocación. Para la incisión transaxilar, el tipo de implante que se coloque siempre dependerá de la elección que considere más recomendable el cirujano.<br/><br/>
 
 ## **Tipos de prótesis o implantes mamarios**
@@ -72,7 +72,7 @@ Otras incisiones son:
 
 <u>**Por su contenido:**</u>
 
-* **Implantes de gel de silicona cohesivo**<br/>Este implante es lo último en tecnología de implantes, y tienen una forma más natural a una glándula mamaria, ya que su contenido es muy parecido en consistencia. 
+* **Implantes de gel de silicona cohesivo**<br/>Este implante es lo último en tecnología de implantes, y tienen una forma más natural a una glándula mamaria, ya que su contenido es muy parecido en consistencia.<br/><br/>
 * **Implantes de solución salina**<br/>Este tipo de implante, se usa más que todo para pacientes de reconstrucción mamaria, aunque hoy día están en desuso para pacientes de mamoplastia de aumento.
 
 **<u>Por su textura:</u>** 
@@ -97,25 +97,25 @@ Ahora sí, vamos con las <u>texturas de los implantes mamarios</u>:
 
 **<u>Por su forma:</u>**
 
-* **Implantes anatómicos (forma de gota)**<br/>El implante anatómico tiene una forma muy parecida a la de un seno natural, es decir, en forma de gota, ya que tiene la misma caída que un seno natural. Su desventaja, es que si el implante se rota la forma del seno cambia. 
+* **Implantes anatómicos (forma de gota)**<br/>El implante anatómico tiene una forma muy parecida a la de un seno natural, es decir, en forma de gota, ya que tiene la misma caída que un seno natural. Su desventaja, es que si el implante se rota la forma del seno cambia. <br/><br/>
 * **Implantes redondos** <br/>Por su parte, los implantes redondos tienen la gran ventaja que pueden rotarse y la forma del seno no varía, ya que, este implante tiene la misma forma a diferencia del implante anatómico que tiene forma de gota. Pero a diferencia del anatómico, el implante redondo no deja el seno de forma natural, dado que el seno queda más proyectado y redondo.<br/><br/>
 
 ## **Posiciones en que se pueden colocar los implantes mamarios**
 
 <br/>La posición donde irá el implante mamario depende de varios factores, como la contextura de la paciente, la forma y estado en que este se encuentre, entre otras, por eso el cirujano experto será el que te dé las indicaciones de la posición en que ira la prótesis y el por qué. 
 
-* **Posición subglandular:** el implante se coloca debajo de la glándula mamaria.
-* **Posición subfascial:** el implante se coloca debajo del tejido que cubre el músculo pectoral, y que recibe el nombre de fascia. 
+* **Posición subglandular:** el implante se coloca debajo de la glándula mamaria.<br/><br/>
+* **Posición subfascial:** el implante se coloca debajo del tejido que cubre el músculo pectoral, y que recibe el nombre de fascia. <br/><br/>
 * **Posición submuscular o subpectoral:** en la posición submuscular el implante se coloca debajo del músculo pectoral.<br/><br/>
 
-## **Aumento de senos sin implantes** 
+## **Aumento de senos sin implantes**
 
 <br/>Aumentar los senos sin implantes es posible gracias a la técnica de aumento de senos con grasa, también llamada lipotransferencia, dado que se extrae grasa de una parte del cuerpo del paciente, como abdomen o muslos, para ser transferido a los senos, dicho de otra forma, se hace liposucción en una zona y luego esa grasa luego de ser limpiada se lleva a otra, en este caso a los senos. 
 
 Algunas de las ventajas de aumentarse los senos con grasa son:
 
-* El seno queda mucho más natural, dado que, al rellenarse con la grasa propia del paciente, aunque su tamaño aumenta, se ve y se siente igual a los senos sin operar. 
-* Las complicaciones sin duda se reducen, ya que definitivamente no habrá contractura muscular, siendo este un riesgo solo de los implantes mamarios. 
+* El seno queda mucho más natural, dado que, al rellenarse con la grasa propia del paciente, aunque su tamaño aumenta, se ve y se siente igual a los senos sin operar. <br/><br/>
+* Las complicaciones sin duda se reducen, ya que definitivamente no habrá contractura muscular, siendo este un riesgo solo de los implantes mamarios. <br/><br/>
 * La cicatriz que queda con la cirugía de aumento de senos con grasa es casi imperceptible.
 
 **Operación de senos caídos** 
@@ -128,24 +128,24 @@ La caída de los senos (ptosis mamaria) se produce por diferentes razones, como 
 
 <br/>**Antes de realizarte una cirugía de senos** es muy importante que planees y te organices, ya que luego de la operación no podrás hacer muchas cosas por ti sola, por ello te daremos algunas recomendaciones de cómo prepararte para que tu postoperatorio sea lo más agradable posible. ¡Aquí vamos!
 
-* Si vives sola te recomendamos la compañía de alguien para que evites levantar los brazos al momento de vestirte y bañarte.
-* Dejar las comidas listas solo de calentar, ya que no podrás hacer ningún esfuerzo durante varios días. 
-* Elegir la ropa que vas a usar los días posteriores de la operación, ten presente que deben ser blusas de botones o cremallera, ya que no podrás levantar los brazos. 
-* No ingerir alcohol ni fumar días previos a la cirugía.
-* Informar al cirujano si has tomado cualquier tipo de medicamento días o meses previos a la cirugía, ya que hasta las vitaminas pueden interferir en el éxito y recuperación de la cirugía, y ciertos medicamentos pueden causar sangrado.<br/>**Los cuidados después de la cirugía de mamas** deben realizarse al pie de la letra, ya que si se siguen los cuidados que indica el doctor, el postoperatorio será más satisfactorio.
-* Primero que todo debes hacer uso del brasier postquirurgico, aproximadamente durante 1 mes, tanto de día como de noche. Para conocer los barsiers postoperatorios haz clic aquí.
-* El uso de la banda mamaria también es fundamental, y se usa solo si el cirujano lo indica, ya que no se usa en todos los casos. La banda mamaria inmoviliza los senos para mantener los implantes en su lugar mientras los tejidos cicatrizan. 
-* Tomar analgésicos para el dolor y antibióticos como forma de prevenir cualquier infección. 
-* No estar acostada las 24 horas del día, ya que se incrementan los riesgos post operatorios. 
-* No levantar los brazos durante aproximadamente  15 días. 
-* No levantar objetos pesados durante 1 mes. 
-* No recibir sol directamente en las mamas durante 1 mes. 
-* No fumar, ya que esto retarda el proceso de cicatrización. 
-* No tomar medicamentos sin que el cirujano se los apruebe, así sean solo vitaminas. 
-* No tener relaciones sexuales por 20 días, dado que las heridas se pueden complicar e infectar.
-* No dormir boca abajo ni de lado durante 1 mes,
-* No retirar la curación que realiza el cirujano plástico. 
-* No manejar por 15 días.
+* Si vives sola te recomendamos la compañía de alguien para que evites levantar los brazos al momento de vestirte y bañarte.<br/><br/>
+* Dejar las comidas listas solo de calentar, ya que no podrás hacer ningún esfuerzo durante varios días. <br/><br/>
+* Elegir la ropa que vas a usar los días posteriores de la operación, ten presente que deben ser blusas de botones o cremallera, ya que no podrás levantar los brazos. <br/><br/>
+* No ingerir alcohol ni fumar días previos a la cirugía.<br/><br/>
+* Informar al cirujano si has tomado cualquier tipo de medicamento días o meses previos a la cirugía, ya que hasta las vitaminas pueden interferir en el éxito y recuperación de la cirugía, y ciertos medicamentos pueden causar sangrado.<br/>**Los cuidados después de la cirugía de mamas** deben realizarse al pie de la letra, ya que si se siguen los cuidados que indica el doctor, el postoperatorio será más satisfactorio.<br/><br/>
+* Primero que todo debes hacer uso del brasier postquirurgico, aproximadamente durante 1 mes, tanto de día como de noche. Para conocer los barsiers postoperatorios haz clic aquí.<br/><br/>
+* El uso de la banda mamaria también es fundamental, y se usa solo si el cirujano lo indica, ya que no se usa en todos los casos. La banda mamaria inmoviliza los senos para mantener los implantes en su lugar mientras los tejidos cicatrizan. <br/><br/>
+* Tomar analgésicos para el dolor y antibióticos como forma de prevenir cualquier infección. <br/><br/>
+* No estar acostada las 24 horas del día, ya que se incrementan los riesgos post operatorios. <br/><br/>
+* No levantar los brazos durante aproximadamente  15 días. <br/><br/>
+* No levantar objetos pesados durante 1 mes.<br/><br/>
+* No recibir sol directamente en las mamas durante 1 mes. <br/><br/>
+* No fumar, ya que esto retarda el proceso de cicatrización. <br/><br/>
+* No tomar medicamentos sin que el cirujano se los apruebe, así sean solo vitaminas. <br/><br/>
+* No tener relaciones sexuales por 20 días, dado que las heridas se pueden complicar e infectar.<br/><br/>
+* No dormir boca abajo ni de lado durante 1 mes.<br/><br/>
+* No retirar la curación que realiza el cirujano plástico.<br/><br/>
+* No manejar por 15 días.<br/><br/>
 * No hacer ejercicio físico extenuante que implique movimientos del tórax o trotar por 1 mes, solo puedes caminar.<br/><br/>
 
 ## **Riesgos o posibles complicaciones de una mamoplastia de aumento**
@@ -165,8 +165,6 @@ Igualmente, es recomendable que tengas presentes los riesgos o complicaciones po
 * Entre otros.<br/><br/>
 
 ## **Ahora te responderemos algunas dudas generales sobre la cirugía de aumento de senos**
-
-
 
 <br/>**¿En cuánto tiempo se desinflaman los senos después de un aumento?**  
 
@@ -197,7 +195,5 @@ IMPORTANTE: los tiempos de recuperación y complicaciones están sujetos a cambi
 ## **Conclusión**
 
 <br/>En definitiva, si buscas un lugar dónde realizarte una reconstrucción mamaria o un aumento de senos en Bogotá, recuerda siempre buscar a especialistas miembros de la Sociedad Colombiana de Cirugía Plástica, así te aseguras de estar en buenas manos, correr el menor riesgo y quedar lo más satisfecho posible. 
-
-
 
 Esperamos que este artículo te haya ayudado a resolver todas tus inquietudes sobre la cirugía reconstructiva y el aumento de senos. **Si quieres recibir más información sobre este procedimiento en Carolina Carvajal**, déjanos tus datos en el siguiente formulario y te contactaremos a la brevedad.
