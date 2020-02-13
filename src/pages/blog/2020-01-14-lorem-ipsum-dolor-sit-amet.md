@@ -34,7 +34,7 @@ La rinoplastia para hombres es tan común como una rinoplastia para mujer, y el 
 
 ## **Existen diferentes tipos de cirugías de nariz, por eso te explicaremos cada una de ellas y sus diferencias**
 
-* <br/>Rinoplastia.
+* Rinoplastia.
 * Septoplastia.
 * Turbinoplastia.
 
@@ -135,11 +135,11 @@ Algunos riesgos son:
 * Inflamación fuera de lo normal, la cual puede modificar el resultado final.
 * Inconformidad con los resultados. Por eso es importante que tu cirujano te hable con honestidad durante la evaluación preoperatoria.<br/><br/>
 
-## **Ahora, te responderemos algunas dudas generales sobre la rinoplastia.**
+## **Ahora, te responderemos algunas dudas generales sobre la rinoplastia.<br/>**
 
-* <br/>**¿Es dolorosa una rinoplastia?<br/>**El umbral del dolor difiere en cada paciente, por lo que el dolor se percibe diferente en cada ser humano.  En la escala del 1 al 10 del dolor la rinoplastia está considerada entre un 4-5. Normalmente una rinoplastia viene acompañada de alguno que otro hematoma o moretón por el procedimiento, pero es algo normal.
-* **¿Desde qué edad me puedo hacer una rinoplastia?**<br/>Las rinoplastias en pacientes con  antecedentes de labio y paladar hendido se realizan a los 15-16 años. Las rinoplastias sin estos antecedentes se evalúan de acuerdo a la necesidad funcional y estética de cada paciente , siempre y cuando tenga la compañía  de un representante legal.
-* **¿Cuál es la mejor técnica de rinoplastia?**<br/>Existen muchas técnicas, todo depende de la anatomía y antecedentes quirúrgicos de cada paciente. 
+* **¿Es dolorosa una rinoplastia?<br/>**El umbral del dolor difiere en cada paciente, por lo que el dolor se percibe diferente en cada ser humano.  En la escala del 1 al 10 del dolor la rinoplastia está considerada entre un 4-5. Normalmente una rinoplastia viene acompañada de alguno que otro hematoma o moretón por el procedimiento, pero es algo normal.<br/><br/>
+* **¿Desde qué edad me puedo hacer una rinoplastia?**<br/>Las rinoplastias en pacientes con  antecedentes de labio y paladar hendido se realizan a los 15-16 años. Las rinoplastias sin estos antecedentes se evalúan de acuerdo a la necesidad funcional y estética de cada paciente , siempre y cuando tenga la compañía  de un representante legal.<br/><br/>
+* **¿Cuál es la mejor técnica de rinoplastia?**<br/>Existen muchas técnicas, todo depende de la anatomía y antecedentes quirúrgicos de cada paciente. <br/><br/>
 *  **¿Qué es una rinoplastia ultrasónica?**<br/>La rinoplastia ultrasónica es un procedimiento que reemplaza la tradicional  raspa, martillo y cincel por un innovador aparato de ultrasonidos. Con este aparato se puede limar, fracturar y  bajar protuberancias en el hueso nasal sin producir tanto trauma en los tejidos, por lo que la recuperación es mucho más rápida e indolora.
 
 IMPORTANTE: los tiempos de recuperación y complicaciones están sujetos a cambios dependiendo de cada paciente.<br/><br/>
