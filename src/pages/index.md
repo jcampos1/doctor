@@ -24,11 +24,10 @@ testimonials:
   - alt: cxvcxvxv
     image: /img/cristina.png
     resume: >-
-      Tuve la fortuna de atenderme con la Dra. Carolina con la que me realicé
-      una exfoliación facial con carbón que me dejó la piel más firme y
-      rejuvenecida y el otro fue la mesoterapia facial y corporal que mejoró mi
-      cabello y piel con un coctel de vitaminas extraordinarias. Dos
-      tratamientos no quirúrgicos que recomiendo totalmente.
+      Tuve la fortuna de atenderme con la Dra. Carolina, para realizarme una
+      exfoliación facial con carbón que me dejó la piel más firme y
+      rejuvenecida, además me realizó una mesoterapia facial y corporal que
+      mejoró mi cabello y piel con un coctel de vitaminas extraordinarias.
     title: Cristina Hidalgo (Modelo- Miss Ecuador 2019)
   - alt: asdasdad
     image: /img/marcos.png
