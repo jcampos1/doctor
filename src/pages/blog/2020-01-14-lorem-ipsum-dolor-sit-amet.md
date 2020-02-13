@@ -16,7 +16,7 @@ author:
 featuredpost: true
 coverImage: /img/rinoplastia-cover.png
 altCover: fdgfdgdfg
-listImage: /img/rinoplastia.png
+listImage: /img/rinoplastia-cover.png
 altList: fgdgdgfdg
 tags:
   - rinoplastia

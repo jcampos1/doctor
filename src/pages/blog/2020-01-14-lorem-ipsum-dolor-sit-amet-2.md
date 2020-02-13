@@ -12,7 +12,7 @@ author:
 featuredpost: true
 coverImage: /img/mamoplastia-cover.png
 altCover: fdgfdgdf
-listImage: /img/mamoplastia.png
+listImage: /img/mamoplastia-cover.png
 altList: dfsdfdf
 tags:
   - dsfdsfdsdfs

@@ -12,7 +12,7 @@ author:
 featuredpost: true
 coverImage: /img/botox-cover.png
 altCover: fsgdfgdfgdf
-listImage: /img/botox.png
+listImage: /img/botox-cover.png
 altList: fdgdfgfdg
 tags:
   - botox
