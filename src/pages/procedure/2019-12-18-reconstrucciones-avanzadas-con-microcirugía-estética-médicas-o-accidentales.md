@@ -36,5 +36,11 @@ procedures:
       estéticas.
     image: /img/reco-mamaria.png
     name: Reconstrucción mamaria parcial o total.
+  - alt: dsfdsfdsfsdf
+    description: Lorem ipsun si amet
+    image: /img/placeholder-image.png
+    name: >-
+      Reconstrucciones en cabeza, cuello y demás miembros superiores e
+      inferiores
 ---
 
