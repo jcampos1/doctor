@@ -66,7 +66,7 @@ procedures:
       la cara extrayendo la grasa localizada en la parte inferior de la
       mandíbula y cuello, logrando un perfilamiento facial estilizado y
       armonioso.
-    image: /img/placeholder-image.png
+    image: /img/lipo-papada.png
     name: Liposucción de papada
   - alt: sdfdsfdsf
     description: >-

@@ -14,7 +14,7 @@ author:
   name: Carolina Carvajal
   photo: /img/carolina.png
 featuredpost: true
-coverImage: /img/rinoplastia-cover.png
+coverImage: /img/rinoplastia-cover2.png
 altCover: fdgfdgdfg
 listImage: /img/rinoplastia-cover.png
 altList: fgdgdgfdg

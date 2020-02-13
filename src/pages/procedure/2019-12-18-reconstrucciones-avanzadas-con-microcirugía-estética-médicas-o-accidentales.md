@@ -19,7 +19,7 @@ prompt:
 
     Realizamos todas las reconstrucciones en cabeza, cuello, y demás miembros
     superiores e inferiores, y reconstrucción de mamas.
-  image: /img/alert.svg
+  image: /img/alert.png
 procedures:
   - alt: dsfdsfds
     description: >-

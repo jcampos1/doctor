@@ -10,7 +10,7 @@ author:
   name: Carolina Carvajal
   photo: /img/carolina.png
 featuredpost: true
-coverImage: /img/botox-cover.png
+coverImage: /img/botox-cover2.png
 altCover: fsgdfgdfgdf
 listImage: /img/botox-cover.png
 altList: fdgdfgfdg

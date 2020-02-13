@@ -10,7 +10,7 @@ author:
   name: Carolina Carvajal
   photo: /img/carolina.png
 featuredpost: true
-coverImage: /img/mamoplastia-cover.png
+coverImage: /img/mamoplastia-cover2.png
 altCover: fdgfdgdf
 listImage: /img/mamoplastia-cover.png
 altList: dfsdfdf
