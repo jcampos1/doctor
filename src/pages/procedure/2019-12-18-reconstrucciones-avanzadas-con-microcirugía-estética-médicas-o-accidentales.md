@@ -12,7 +12,7 @@ prompt:
   alt: dffdf
   content: >-
     La microcirugía es una rama de la cirugía plástica que permite al cirujano
-    tener una herramienta de reconstruir cualquier parte del cuerpo, como el
+    tener una herramienta de reconstruir cualquier parte del cuerpo, como
     resultado de un trauma, accidente, cirugía mal realizada, enfermedad o
     alteración genética.
 

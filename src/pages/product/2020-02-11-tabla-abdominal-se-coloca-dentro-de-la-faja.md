@@ -1,6 +1,6 @@
 ---
 templateKey: product-page
-name: Tabla abdominal (se coloca dentro de la faja)
+name: Tabla abdominal
 cover:
   alt: dsfdsf
   altProd: fdgfd
