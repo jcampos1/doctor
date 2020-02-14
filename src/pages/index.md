@@ -18,7 +18,7 @@ resumeProfile:
   networks:
     facebook: 'https://www.facebook.com/carvajalcirugiaplastica/'
     instagram: 'https://www.instagram.com/carvajalcirugiaplastica/'
-    wathsapp: +57304 6756499
+    wathsapp: https://api.whatsapp.com/send?phone=573176487891&text=Hola%21%20Escribo%20contacto%20desde%20carvajalcirugiaplastica.com%20y%20quisiera%20saber...&source=&data=
     youtube: 'https://www.youtube.com/channel/UCxAgsJY4LVJ7T1JZp8BUpOQ'
 testimonials:
   - alt: cxvcxvxv

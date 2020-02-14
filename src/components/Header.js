@@ -23,6 +23,7 @@ const links = [{
 const Header = ({
     location
 }) => {
+    console.log('location :', location.pathname);
     return (
         <div id="header">
             <nav 
@@ -63,13 +64,26 @@ const Header = ({
                                                 {item.name}
                                             </Link>
                                         ) : (
-                                            <LinkScroll
-                                                smooth={true}
-                                                duration={500}
-                                                to={item.to}
-                                                className={`c-pointer nav-link ${location && location.pathname.includes(item.to.replace("#", "/")) ? "active" : ""} text-muted font-weight-bold pb-0`}>
-                                                {item.name}
-                                            </LinkScroll>
+                                            <>
+                                                {
+                                                    location.pathname === "/" ? (
+                                                        <LinkScroll
+                                                            smooth={true}
+                                                            duration={500}
+                                                            to={item.to}
+                                                            className={`c-pointer nav-link ${location && location.pathname.includes(item.to.replace("#", "/")) ? "active" : ""} text-muted font-weight-bold pb-0`}>
+                                                            {item.name}
+                                                        </LinkScroll>
+                                                    ) : (
+                                                        <Link 
+                                                            to={`/#${item.to}`}
+                                                            className={`nav-link ${location && location.pathname === item.to ? "active" : ""} text-muted font-weight-bold pb-0`}>
+                                                            {item.name}
+                                                        </Link>
+                                                    )
+                                                }
+                                                
+                                            </>
                                         )
                                     }
                                 </li>
