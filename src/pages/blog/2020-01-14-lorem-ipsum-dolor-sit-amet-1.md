@@ -17,9 +17,7 @@ altList: fdgdfgfdg
 tags:
   - botox
 ---
-## **Aplicación de Toxina Botulínica (Botox) para suavizar y prevenir arrugas**
-
-<br/>Las arrugas son el signo más visible de que hemos envejecido. Rostro, cuello y manos son las partes del cuerpo que más lo evidencian, razón por la que siempre estamos buscando maneras de eliminarlas por completo, o en su defecto, atenuarlas. 
+Las arrugas son el signo más visible de que hemos envejecido. Rostro, cuello y manos son las partes del cuerpo que más lo evidencian, razón por la que siempre estamos buscando maneras de eliminarlas por completo, o en su defecto, atenuarlas. 
 
 Los factores que causan la aparición de arrugas son diversos, siendo el tiempo el mayor de ellos, seguido de la exposición al sol, sobre todo en las pieles blancas que son menos tolerantes que las oscuras.
 
